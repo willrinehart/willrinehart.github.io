@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech-adoption on Will Rinehart</title>
+    <link>https://example.com/tags/tech-adoption/</link>
+    <description>Recent content in tech-adoption on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Fri, 09 Aug 2019 13:49:48 +0000</lastBuildDate><atom:link href="https://example.com/tags/tech-adoption/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Studies Exploring GPS Adoption</title>
+      <link>https://example.com/2019/studies-exploring-gps-adoption/</link>
+      <pubDate>Fri, 09 Aug 2019 13:49:48 +0000</pubDate>
+      
+      <guid>https://example.com/2019/studies-exploring-gps-adoption/</guid>
+      <description>I’m a couple of chapters into reading Re-Engineering Humanity from Brett Frischmann and Evan Selinger, which includes a discussion of the effects of GPS. So, I thought I would take a look at the literature. “Results showed that GPS users traveled longer distances and made more stops during the walk than map users and direct-experience participants. Also, GPS users traveled more slowly, made larger direction errors, drew sketch maps with poorer topological accuracy, and rated wayfinding tasks as more difficult than direct-experience participants.</description>
+    </item>
+    
+  </channel>
+</rss>

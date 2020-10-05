@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pricing on Will Rinehart</title>
+    <link>https://example.com/categories/pricing/</link>
+    <description>Recent content in Pricing on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Fri, 09 Jan 2015 19:33:20 +0000</lastBuildDate><atom:link href="https://example.com/categories/pricing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Micropayments, The News, &amp; Friction Free Browsing</title>
+      <link>https://example.com/2015/micropayments-news-friction-free-browsing/</link>
+      <pubDate>Fri, 09 Jan 2015 19:33:20 +0000</pubDate>
+      
+      <guid>https://example.com/2015/micropayments-news-friction-free-browsing/</guid>
+      <description>Earlier this week I heard Walter Isaacson delve into his new book, “The Innovators,” at the American Enterprise Institute. In discussion, he lamented the development of the various business models in online journalism, and content generally, arguing forcefully for micropayments in their place. In a LinkedIn article on the same subject, he explains:
+Even though I am not in the prediction business, I am highly skeptical that micropayments will become widespread for a number of reasons, none of which are particularly new.</description>
+    </item>
+    
+    <item>
+      <title>The Basics of Euvoluntary Exchange</title>
+      <link>https://example.com/2014/basics-euvoluntary-exchange/</link>
+      <pubDate>Wed, 31 Dec 2014 17:23:38 +0000</pubDate>
+      
+      <guid>https://example.com/2014/basics-euvoluntary-exchange/</guid>
+      <description>&lt;p&gt;Samuel Wilson’s prodigious and interesting output at &lt;a href=&#34;http://euvoluntaryexchange.blogspot.com/&#34;&gt;Euvoluntary Exchange&lt;/a&gt; lead me to two articles by Michael Munger, the source of the blog’s name and focus. The first article “&lt;a href=&#34;http://people.duke.edu/~munger/euvol.pdf&#34;&gt;Euvoluntary or Not, Exchange is Just&lt;/a&gt;” is fascinating. Here is the main thesis:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;For Munger, euvoluntary exchange is the name given to any any truly voluntary exchange that leaves both parties better off than before. To be truly voluntary or euvoluntary, the exchange requires&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Value As a Result of Pricing Mobile Data Use</title>
+      <link>https://example.com/2014/value-result-pricing-mobile-data-use/</link>
+      <pubDate>Fri, 12 Dec 2014 19:32:28 +0000</pubDate>
+      
+      <guid>https://example.com/2014/value-result-pricing-mobile-data-use/</guid>
+      <description>I was reading over the comments my former colleagues at the International Center for Law and Economics and TechFreedom filed on Title II reclassification to find these two paragraphs of pure Alchian bliss:</description>
+    </item>
+    
+  </channel>
+</rss>

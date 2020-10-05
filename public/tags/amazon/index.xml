@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon on Will Rinehart</title>
+    <link>https://example.com/tags/amazon/</link>
+    <description>Recent content in Amazon on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Wed, 07 Nov 2018 22:24:53 +0000</lastBuildDate><atom:link href="https://example.com/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is There a Kill Zone in Tech?</title>
+      <link>https://example.com/2018/is-there-a-kill-zone-in-tech/</link>
+      <pubDate>Wed, 07 Nov 2018 22:24:53 +0000</pubDate>
+      
+      <guid>https://example.com/2018/is-there-a-kill-zone-in-tech/</guid>
+      <description>Recently, Noah Smith explored an emerging question in tech. Is there a kill zone where new and innovative upstarts are being throttled by the biggest players? He explains,
+So, are American tech companies making it difficult for startups? Perhaps, but there are some other reasons to be skeptical.
+First off, the nature of the venture capital market has changed due to the declining costs of computing. Not too long ago, much of a tech company’s Series A and B would be dedicated to buying server racks and computing power.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FCC on Will Rinehart</title>
+    <link>https://example.com/tags/fcc/</link>
+    <description>Recent content in FCC on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Sun, 04 Jan 2015 21:40:19 +0000</lastBuildDate><atom:link href="https://example.com/tags/fcc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What’s The FCC’s Rush on New Net Neutrality Rules?</title>
+      <link>https://example.com/2015/whats-fccs-rush-new-net-neutrality-rules/</link>
+      <pubDate>Sun, 04 Jan 2015 21:40:19 +0000</pubDate>
+      
+      <guid>https://example.com/2015/whats-fccs-rush-new-net-neutrality-rules/</guid>
+      <description>Network neutrality rules have failed to pass Congress and the courts countless times, so what’s the FCC’s rush now? Scott Cleland explores in an op-ed at the Daily Caller:</description>
+    </item>
+    
+  </channel>
+</rss>

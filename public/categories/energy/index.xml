@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Energy on Will Rinehart</title>
+    <link>https://example.com/categories/energy/</link>
+    <description>Recent content in Energy on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Mon, 04 Aug 2014 13:21:13 +0000</lastBuildDate><atom:link href="https://example.com/categories/energy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demand Destruction Signals Long Term Shift in Energy Markets</title>
+      <link>https://example.com/2014/demand-destruction-signals-long-term-shift-in-energy-markets/</link>
+      <pubDate>Mon, 04 Aug 2014 13:21:13 +0000</pubDate>
+      
+      <guid>https://example.com/2014/demand-destruction-signals-long-term-shift-in-energy-markets/</guid>
+      <description>Recent estimates suggest the US might meet the Kyoto Protocol because of natural gas substitution. Slate is reporting on a related trend, energy demand destruction:</description>
+    </item>
+    
+    <item>
+      <title>Solar Industry Innovates With Contracts</title>
+      <link>https://example.com/2012/solar-industry-innovates-with-contracts/</link>
+      <pubDate>Fri, 31 Aug 2012 17:09:57 +0000</pubDate>
+      
+      <guid>https://example.com/2012/solar-industry-innovates-with-contracts/</guid>
+      <description>Innovative products are not necessarily followed by broad adoption. There needs be a business model behind it.
+Lynee Kiesling over at Knowledge Problem has a post on the solar industry, which is interesting throughout. She cites a New York Times article which helps to explain part of the mystery of innovation:
+And there you go. Deregulate the whole thicket of laws surrounding electricity, put residential customers on a payment plan and solar becomes a much more attractive investment.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>progress on Will Rinehart</title>
+    <link>https://example.com/tags/progress/</link>
+    <description>Recent content in progress on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Fri, 30 Aug 2019 15:56:13 +0000</lastBuildDate><atom:link href="https://example.com/tags/progress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Progress Studies, Some Initial Thoughts</title>
+      <link>https://example.com/2019/progress-studies-some-initial-thoughts/</link>
+      <pubDate>Fri, 30 Aug 2019 15:56:13 +0000</pubDate>
+      
+      <guid>https://example.com/2019/progress-studies-some-initial-thoughts/</guid>
+      <description>When I read through Patrick Collison and Tyler Cowen’s article in The Atlantic calling for a new science of progress that studies “successful people, organizations, institutions, policies, and cultures,” my first reaction was, yes of course, that needs to be done. And then the negative responses came in, minimizing the push from Collison and Cowen because, as the critics had argued, management theory and entrepreneurial studies and even history is doing the job.</description>
+    </item>
+    
+  </channel>
+</rss>

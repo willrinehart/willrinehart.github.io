@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>telecom on Will Rinehart</title>
+    <link>https://example.com/tags/telecom/</link>
+    <description>Recent content in telecom on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Mon, 10 Feb 2020 16:08:13 +0000</lastBuildDate><atom:link href="https://example.com/tags/telecom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A brief history of competition in telephony 1880-1900</title>
+      <link>https://example.com/2020/a-brief-history-of-competition-in-telephany-1880-1900/</link>
+      <pubDate>Mon, 10 Feb 2020 16:08:13 +0000</pubDate>
+      
+      <guid>https://example.com/2020/a-brief-history-of-competition-in-telephany-1880-1900/</guid>
+      <description>Back in 2017, Jonathan Taplin, made his case in the New York Times for breaking up Google by relating the early history of telephony:
+ But, as Aswath Rao pointed out, the buildings of Boston were connected with a nest of wires in 1881 as well. Why is this specific picture important? Bell’s patents on the telephone expired in 1893, which sparked the independent revolution, so it was impossible for any competitor to exist before then.</description>
+    </item>
+    
+  </channel>
+</rss>

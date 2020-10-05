@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on Will Rinehart</title>
+    <link>https://example.com/tags/ai/</link>
+    <description>Recent content in AI on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Mon, 08 Jul 2019 20:19:33 +0000</lastBuildDate><atom:link href="https://example.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>There are good reasons to be skeptical that automation will unravel the labor market</title>
+      <link>https://example.com/2019/there-are-good-reasons-to-be-skeptical-that-automation-will-unravel-the-labor-market/</link>
+      <pubDate>Mon, 08 Jul 2019 20:19:33 +0000</pubDate>
+      
+      <guid>https://example.com/2019/there-are-good-reasons-to-be-skeptical-that-automation-will-unravel-the-labor-market/</guid>
+      <description>When it comes to the threat of automation, I agree with Ryan Khurana: “From self-driving car crashes to failed workplace algorithms, many AI tools fail to perform simple tasks humans excel at, let alone far surpass us in every way.” Like myself, he is skeptical that automation will unravel the labor market, pointing out that “[The] conflation of what AI ‘may one day do’ with the much more mundane ‘what software can do today’ creates a powerful narrative around automation that accepts no refutation.</description>
+    </item>
+    
+    <item>
+      <title>Book Review: Cathy O’Neil’s &#34;Weapons of Math Destruction&#34;</title>
+      <link>https://example.com/2018/book-review-cathy-oneils-weapons-of-math-destruction/</link>
+      <pubDate>Wed, 07 Nov 2018 17:01:28 +0000</pubDate>
+      
+      <guid>https://example.com/2018/book-review-cathy-oneils-weapons-of-math-destruction/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;To read Cathy O’Neil’s &lt;!-- raw HTML omitted --&gt;&lt;em&gt;&lt;!-- raw HTML omitted --&gt;Weapons of Math Destruction &lt;!-- raw HTML omitted --&gt;&lt;/em&gt;&lt;!-- raw HTML omitted --&gt;(2016) is to experience another in a line of progressive pugilists of the technological age. Where Tim Wu took on &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://www.amazon.com/Future-Internet-How-Stop/dp/0300151241&#34;&gt;&lt;!-- raw HTML omitted --&gt;the future of the Internet&lt;!-- raw HTML omitted --&gt;&lt;/a&gt; &lt;!-- raw HTML omitted --&gt;and Evgeny Morozov &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://www.amazon.com/Net-Delusion-Dark-Internet-Freedom/dp/1610391063&#34;&gt;&lt;!-- raw HTML omitted --&gt;chided online slactivism&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;, O’Neil takes on algorithms, or what she has dubbed weapons of math destruction (WMD).&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;O’Neil’s book came at just the right moment in 2016. It sounded the alarm about big data just as it was becoming a topic for public discussion. And now, two years later, her worries seem prescient. As she explains in the introduction,&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;O’Neil is explicit about laying out the blame at the feet of the WMDs, “You cannot appeal to a WMD. That’s part of their fearsome power. They do not listen.” Yet, these models aren’t deployed and adopted in a frictionless environment. Instead, they “reflect goals and ideology” as O’Neil readily admits. Where &lt;!-- raw HTML omitted --&gt;&lt;em&gt;&lt;!-- raw HTML omitted --&gt;Weapons of Math Destruction &lt;!-- raw HTML omitted --&gt;&lt;/em&gt;&lt;!-- raw HTML omitted --&gt;falters is that it ascribes too much agency to algorithms in places, and in doing so misses the broader politics behind algorithmic decision making.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mandating AI Fairness May Come At The Expense Of Other Types of Fairness</title>
+      <link>https://example.com/2018/mandating-ai-fairness-may-come-at-the-expense-of-other-types-of-fairness/</link>
+      <pubDate>Thu, 21 Jun 2018 18:12:25 +0000</pubDate>
+      
+      <guid>https://example.com/2018/mandating-ai-fairness-may-come-at-the-expense-of-other-types-of-fairness/</guid>
+      <description>&lt;p&gt;Two years ago, ProPublica &lt;a href=&#34;https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing&#34;&gt;initiated a conversation&lt;/a&gt; over the use of risk assessment algorithms when they concluded that a widely used “score proved remarkably unreliable in forecasting violent crime” in Florida. Their examination of the racial disparities in scoring has been cited countless times, often as a proxy for the power of automation and algorithms in daily life. Indeed, as the authors concluded, these scores are “part of a part of a larger examination of the powerful, largely hidden effect of algorithms in American life.”&lt;br&gt;
+As this examination continues, two precepts are worth keeping in mind. First, the social significance of algorithms needs to be considered, not just their internal model significance. While the accuracy of algorithms are important, more emphasis should be placed on how they are used within institutional settings. And second, fairness is not a single idea. Mandates for certain kinds of fairness could come at the expense of others forms of fairness. As always, policymakers need to be cognizant of the trade offs.  &lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

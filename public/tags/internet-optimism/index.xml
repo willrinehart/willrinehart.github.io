@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet optimism on Will Rinehart</title>
+    <link>https://example.com/tags/internet-optimism/</link>
+    <description>Recent content in Internet optimism on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Wed, 10 Oct 2018 18:05:15 +0000</lastBuildDate><atom:link href="https://example.com/tags/internet-optimism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In Defense of Techno-optimism</title>
+      <link>https://example.com/2018/in-defense-of-techno-optimism/</link>
+      <pubDate>Wed, 10 Oct 2018 18:05:15 +0000</pubDate>
+      
+      <guid>https://example.com/2018/in-defense-of-techno-optimism/</guid>
+      <description>Many are understandably pessimistic about platforms and technology. This year has been a tough one, from Cambridge Analytica and Russian trolls to the implementation of GDPR and data breaches galore.
+Those who think about the world, about the problems that we see every day, and about their own place in it, will quickly realize the immense frailty of humankind. Fear and worry makes sense. We are flawed, each one of us.</description>
+    </item>
+    
+  </channel>
+</rss>

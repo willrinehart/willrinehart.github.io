@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>the pacing problem on Will Rinehart</title>
+    <link>https://example.com/tags/the-pacing-problem/</link>
+    <description>Recent content in the pacing problem on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Tue, 27 Nov 2018 17:16:38 +0000</lastBuildDate><atom:link href="https://example.com/tags/the-pacing-problem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Short Responses To The Pacing Problem</title>
+      <link>https://example.com/2018/three-short-responses-to-the-pacing-problem/</link>
+      <pubDate>Tue, 27 Nov 2018 17:16:38 +0000</pubDate>
+      
+      <guid>https://example.com/2018/three-short-responses-to-the-pacing-problem/</guid>
+      <description>Contemporary tech criticism displays an anti-nostalgia. Instead of being reverent for the past, anxiety about the future abounds. In these visions, the future is imagined as a strange, foreign land, beset with problems. And yet, to quote that old adage, tomorrow is the visitor that is always coming but never arrives. The future never arrives because we are assembling it today.
+The distance between the now and the future finds its hook in tech policy in the pacing problem, a term describing the mismatch between advancing technologies and society’s efforts to cope with them.</description>
+    </item>
+    
+  </channel>
+</rss>

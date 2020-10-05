@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unbundling on Will Rinehart</title>
+    <link>https://example.com/tags/unbundling/</link>
+    <description>Recent content in unbundling on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Tue, 18 Nov 2014 22:13:02 +0000</lastBuildDate><atom:link href="https://example.com/tags/unbundling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Economic Environment Will TV Unbundling Create?</title>
+      <link>https://example.com/2014/change-financing-unbundling/</link>
+      <pubDate>Tue, 18 Nov 2014 22:13:02 +0000</pubDate>
+      
+      <guid>https://example.com/2014/change-financing-unbundling/</guid>
+      <description>The Technology Policy Institute just went live with a video of their OTT event, exploring TV unbundling. There is a lot of solid material, but Laura Martin, a Senior Analyst at Needham &amp;amp; Company, explained what would happen if we went to an unbundled world:
+ As soon as you unbundle, you lose advertising revenue. Immediately, you have to double the cost because of lost ad dollars. 1/2 of the revenues come from ads and the other 1/2 comes from subscription.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Algorithm on Will Rinehart</title>
+    <link>https://example.com/categories/the-algorithm/</link>
+    <description>Recent content in The Algorithm on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Tue, 11 Nov 2014 20:18:46 +0000</lastBuildDate><atom:link href="https://example.com/categories/the-algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes &amp; Quotes from Eli Pariser’s “The Filter Bubble: What the Internet Is Hiding from You”</title>
+      <link>https://example.com/2014/notes-quotes-eli-parisers-filter-bubble-internet-hiding/</link>
+      <pubDate>Tue, 11 Nov 2014 20:18:46 +0000</pubDate>
+      
+      <guid>https://example.com/2014/notes-quotes-eli-parisers-filter-bubble-internet-hiding/</guid>
+      <description>&lt;p&gt;“To my preteen self, it seemed clear that the Internet was going to democratize the world, connecting us with better information and the power to act on it. The California futurists and techno-optimists in those pages spoke with a clear-eyed certainty; an inevitable, irresistible revolution was just around the corner, one that would flatten society, unseat the elites, and usher in a kind of freewheeling global utopia.” pg 3&lt;/p&gt;
+&lt;p&gt;The Filter Bubble introduces three dynamics we’ve never dealt with before: first, you are alone in it, as it is you own personal bubble. Second, it is invisible in its actions. Finally, you don’t choose to enter into the bubble. pp 9-10&lt;/p&gt;
+&lt;p&gt;“As the cost of communication over large distances and to large groups of people has plummeted, we’re increasingly unable to attend to it all,” leading to what blogger and media analyst Steve Rubel calls the attention crash. p 11&lt;/p&gt;
+&lt;p&gt;The world of personalization is appealing as a “return to a Ptolemaic universe in which the sun and everything else revolves around us.” p 12&lt;/p&gt;
+&lt;p&gt;“In the filter bubble, there’s less room for the chance encounters that bring insight and learning” p 15 My reaction: &lt;em&gt;What does Kirzner have to say about this?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“To be the author of your life, professor Yochai Benkler argues, you have to be aware of a diverse array of options and lifestyles. When you enter a filter bubble, you’re letting companies that construct it choose which options you’re aware of. You may think that you’re the captain of your own destiny, but personalization can lead you down a road to a kind of informational determinism in which what you’ve clicked on in the past determines what you see next—a Web history you’re doomed to repeat.” p 16&lt;/p&gt;
+&lt;p&gt;Robert Putnam defined two kinds of social capital: in-group oriented bonding capital represents those events when you meet an old friend, while bridging capital occurs when lots of people from different backgrounds come together to meet each other, like in a townhall. p 17&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>‘Filter Bubble Thesis’ Popped by Real-world Evidence</title>
+      <link>https://example.com/2012/filter-bubble-thesis-popped-by-real-world-evidence/</link>
+      <pubDate>Tue, 28 Feb 2012 19:17:39 +0000</pubDate>
+      
+      <guid>https://example.com/2012/filter-bubble-thesis-popped-by-real-world-evidence/</guid>
+      <description>SOPA and PIPA overshadowed a number of newsworthy releases at the end of January, and in the scuffle, a study dissecting Facebook’s information networks seemed to have been lost. However, it lobbed an empirical salvo in the Filter Bubble war.
+Working with Facebook, Eytan Bakshy, a newly-minted PhD in information theory, ran an experiment on the social network to better understand how individuals share information through their web of relations. Conducted over seven weeks in the summer of 2010, the experiment randomly suppressed links shared through the Facebook “Like” button—so some users wouldn’t see links that would normally have appeared in the Facebook “News Feed” of content shared by their friends.</description>
+    </item>
+    
+    <item>
+      <title>The Grab for the Graph</title>
+      <link>https://example.com/2011/the-grab-for-the-graph/</link>
+      <pubDate>Fri, 22 Jul 2011 17:45:04 +0000</pubDate>
+      
+      <guid>https://example.com/2011/the-grab-for-the-graph/</guid>
+      <description>Connecting search with social would be a huge step to completing the social graph. Currently Facebook has the lead on this one, but if Google is able to sidestep the privacy issues, which have been thorny, they could capture the pie.</description>
+    </item>
+    
+  </channel>
+</rss>

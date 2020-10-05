@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Surveillance on Will Rinehart</title>
+    <link>https://example.com/categories/surveillance/</link>
+    <description>Recent content in Surveillance on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Sat, 31 Jan 2009 18:48:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/surveillance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Koch Summer Fellowship Essay: Democratizing Technology</title>
+      <link>https://example.com/2009/koch-fellowship/</link>
+      <pubDate>Sat, 31 Jan 2009 18:48:00 +0000</pubDate>
+      
+      <guid>https://example.com/2009/koch-fellowship/</guid>
+      <description>So here is my Koch Fellowship application:
+In the 1930s, two visions for the decline of Western civilization were predicted. Broadly speaking, these were the Huxleyan outcome and the Orwellian outcome. For the past three decades, cultural theorists such as Neil Postman and Jean Baudrillard have warned us about a Huxleyan future, one in which society, shaped by wave after wave of technological advancements, turns itself into a giant burlesque show, a hedonistic landscape of lost meanings and distant relationships.</description>
+    </item>
+    
+  </channel>
+</rss>

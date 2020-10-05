@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on Will Rinehart</title>
+    <link>https://example.com/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Mon, 20 Jul 2020 19:48:40 +0000</lastBuildDate><atom:link href="https://example.com/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The most profound technologies are those that disappear</title>
+      <link>https://example.com/2020/the-most-profound-technologies-are-those-that-disappear/</link>
+      <pubDate>Mon, 20 Jul 2020 19:48:40 +0000</pubDate>
+      
+      <guid>https://example.com/2020/the-most-profound-technologies-are-those-that-disappear/</guid>
+      <description>A conversation today reminded me of the old Mark Weiser piece, which begins, “The most profound technologies are those that disappear.” It continues,</description>
+    </item>
+    
+    <item>
+      <title>Is reasoning inherently adversarial? Some random thoughts, unequally distributed</title>
+      <link>https://example.com/2020/is-reasoning-inherently-adversarial-some-random-thoughts-unequally-distributed/</link>
+      <pubDate>Thu, 16 Jul 2020 18:14:13 +0000</pubDate>
+      
+      <guid>https://example.com/2020/is-reasoning-inherently-adversarial-some-random-thoughts-unequally-distributed/</guid>
+      <description>Is reasoning inherently adversarial? Some random thoughts, unequally distributed:
+ From Gwern: In software engineering, rubber duck debugging is a method of debugging code. The name is a reference to a story in the book The Pragmatic Programmer in which a programmer would carry around a rubber duck and debug their code by forcing themselves to explain it, line-by-line, to the duck. Many other terms exist for this technique, often involving different (usually) inanimate objects, or pets such as a dog or a cat.</description>
+    </item>
+    
+    <item>
+      <title>iPhones may never be produced in the United States because of supply chain issues</title>
+      <link>https://example.com/2020/iphones-may-never-be-produced-in-the-united-states-because-of-supply-chain-issues/</link>
+      <pubDate>Sat, 11 Jul 2020 18:26:03 +0000</pubDate>
+      
+      <guid>https://example.com/2020/iphones-may-never-be-produced-in-the-united-states-because-of-supply-chain-issues/</guid>
+      <description>This morning my friends Angel and Joseph asked for my help in arbitrating a dispute over a part of Michael Lind’s new book. The passage in question suggests that if the iPhone were completely manufactured in the United States, it would only cost an additional $100:
+
+The original MIT Technology Review article on which the cite is taken also makes a similar kind of assumption. Chinese wages are lower and so they can make stuff much cheaper.</description>
+    </item>
+    
+    <item>
+      <title>Making sense of content moderation, some foundations</title>
+      <link>https://example.com/2020/making-sense-of-content-moderation-some-foundations/</link>
+      <pubDate>Fri, 19 Jun 2020 22:01:57 +0000</pubDate>
+      
+      <guid>https://example.com/2020/making-sense-of-content-moderation-some-foundations/</guid>
+      <description>To understand why content moderation and algorithmic choices at Facebook, Twitter, and YouTube are so loathed, it is important to understand a little psychology first.
+Humans have a really bad habit of trying to make sense of the world. We see patterns where they don’t exist and grant intentionality where it shouldn’t be. There are lots of terms for it. Pareidolia, apophenia it is called. But it makes sense under error management theory.</description>
+    </item>
+    
+    <item>
+      <title>Links Thursday, December 5, 2019</title>
+      <link>https://example.com/2019/links-thursday-december-5/</link>
+      <pubDate>Thu, 05 Dec 2019 16:07:17 +0000</pubDate>
+      
+      <guid>https://example.com/2019/links-thursday-december-5/</guid>
+      <description>More on tacit knowledge, this time from Samo Burja: “Before video became available at scale [through YouTube], tacit knowledge had to be transmitted in person, so that the learner could closely observe the knowledge in action and learn in real time — skilled metalworking, for example, is impossible to teach from a textbook. Because of this intensely local nature, it presents a uniquely strong succession problem: if a master woodworker fails to transmit his tacit knowledge to the few apprentices in his shop, the knowledge is lost forever, even if he’s written books about it.</description>
+    </item>
+    
+    <item>
+      <title>A Call To Arms, or Antitrust Needs More Empirical Bayesian Research [Abstract]</title>
+      <link>https://example.com/2019/a-call-to-arms-or-antitrust-needs-more-empirical-bayesian-research/</link>
+      <pubDate>Fri, 01 Nov 2019 16:09:19 +0000</pubDate>
+      
+      <guid>https://example.com/2019/a-call-to-arms-or-antitrust-needs-more-empirical-bayesian-research/</guid>
+      <description>[Extended Abstract: November 1, 2019]
+The mundane world of antitrust economics has been transformed in the last decade, driven by a recorded rise in economic concentration. Across the political range from President Trump and Senator Josh Hawley to presidential hopefuls Elizabeth Warren and Bernie Sanders, attention has been directed towards the largest and most malleable source of antitrust enforcement policy, merger policy. But like the rest of antitrust, there is a dearth of empirically rooted studies on the effectiveness of antitrust policy.</description>
+    </item>
+    
+    <item>
+      <title>Links For Thursday, September 5, 2019</title>
+      <link>https://example.com/2019/links-for-thursday-september-5-2019/</link>
+      <pubDate>Thu, 05 Sep 2019 14:45:03 +0000</pubDate>
+      
+      <guid>https://example.com/2019/links-for-thursday-september-5-2019/</guid>
+      <description>Will Oremus dissects that often repeated phrase, if you aren’t paying, you’re the product. While the piece is stellar, I don’t really agree with Oremus when he says that an alternative vision would “view ourselves as customers of Facebook, paying with our time, attention, and data instead of with money.” That assumes a payment system. Instead we should think of it as exchange. For better or worse, we still use the rhetoric of payments.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Cost Estimation</title>
+      <link>https://example.com/2019/privacy-cost-estimation/</link>
+      <pubDate>Tue, 30 Jul 2019 19:17:51 +0000</pubDate>
+      
+      <guid>https://example.com/2019/privacy-cost-estimation/</guid>
+      <description>This document is really just a proof of concept, but the basic idea is simple. I want to see how much data I can extract from a surveys on the cost of CCPA and GDPR from TrustArc. You can find details of that survey here.
+ </description>
+    </item>
+    
+    <item>
+      <title>Russia As An Activist State</title>
+      <link>https://example.com/2017/russia-as-an-activist-state/</link>
+      <pubDate>Tue, 10 Oct 2017 21:32:32 +0000</pubDate>
+      
+      <guid>https://example.com/2017/russia-as-an-activist-state/</guid>
+      <description>The evidence is building:</description>
+    </item>
+    
+    <item>
+      <title>How Much Is Music Worth?</title>
+      <link>https://example.com/2015/how-much-is-music-worth/</link>
+      <pubDate>Wed, 22 Apr 2015 13:02:32 +0000</pubDate>
+      
+      <guid>https://example.com/2015/how-much-is-music-worth/</guid>
+      <description>Pitchfork has a great article on the consumer prices of music over the last century. Some interesting bits:</description>
+    </item>
+    
+    <item>
+      <title>Why It’s Important That The Internet Created Technopopulism</title>
+      <link>https://example.com/2015/the-internet-created-technopopulism/</link>
+      <pubDate>Mon, 06 Apr 2015 15:45:17 +0000</pubDate>
+      
+      <guid>https://example.com/2015/the-internet-created-technopopulism/</guid>
+      <description>After finishing ITIF’s new report on technopopulism, I couldn’t help but think, isn’t this missing a couple of pages, about, you know, the Internet?
+While there is much to like about the report, the missing piece, the missing message, as McLuhan famously quipped, is the medium.
+Here is the basic gist of the report. In the old days, tech policy was decided by educated wonks who knew the finer points of policy and could make reasoned arguments.</description>
+    </item>
+    
+    <item>
+      <title>Whence Shall Innovation Come? A Rejoinder to Jacobin’s Red Innovation</title>
+      <link>https://example.com/2015/whence-shall-innovation-come-a-rejoinder-to-jacobin/</link>
+      <pubDate>Fri, 03 Apr 2015 15:12:26 +0000</pubDate>
+      
+      <guid>https://example.com/2015/whence-shall-innovation-come-a-rejoinder-to-jacobin/</guid>
+      <description>This month’s Jacobin Magazine tackles the subject of technology, and in it, one article titled “Red Innovation” was an interesting read, but it displays the countless pitfalls of thinkers who are not trained in economics but proffer on capitalism. Here is one section:
+And yet, if Apple had not developed those products for the masses then they would simply be nice ideas in the pages of some fraying journal. Production is one side of the market of which research is a part; markets also include consumption, interestingly enough.</description>
+    </item>
+    
+    <item>
+      <title>The Political Principal-Agent Problem</title>
+      <link>https://example.com/2015/the-political-principal-agent-problem/</link>
+      <pubDate>Wed, 01 Apr 2015 19:49:36 +0000</pubDate>
+      
+      <guid>https://example.com/2015/the-political-principal-agent-problem/</guid>
+      <description>This headline came across my Twitter feed today: “As Fairfax grows more diverse, candidates for office mostly don’t.” Immediately I thought of the principal-agent problem. Here is one bit:
+This actually leads to some interesting questions. Does the inclusion of legislative agents that are more ethnically representative of principals ensure more representative outcomes? In other words, does the Republican Party need to incorporate more diversity in their legislative pool to ensure a broadening of the issues?</description>
+    </item>
+    
+    <item>
+      <title>Law As a Performance of Ideological Assumptions</title>
+      <link>https://example.com/2015/law-performance-ideological-assumptions/</link>
+      <pubDate>Thu, 26 Feb 2015 23:03:32 +0000</pubDate>
+      
+      <guid>https://example.com/2015/law-performance-ideological-assumptions/</guid>
+      <description>From a paper on the 1926 Radio Act:</description>
+    </item>
+    
+    <item>
+      <title>Jefferson’s Contractual Society</title>
+      <link>https://example.com/2015/jeffersons-contractual-society/</link>
+      <pubDate>Thu, 29 Jan 2015 04:01:52 +0000</pubDate>
+      
+      <guid>https://example.com/2015/jeffersons-contractual-society/</guid>
+      <description>When Jefferson said “The earth belongs to the living,” he was railing against the popular Burkean revision of Locke’s contractual society.
+The quote comes from a letter to Madison and makes sense only in the broader debate between Burke and Paine:
+ </description>
+    </item>
+    
+    <item>
+      <title>Some Stats on the NYPD Work Stoppage</title>
+      <link>https://example.com/2015/stats-nypd-work-stoppage/</link>
+      <pubDate>Sun, 04 Jan 2015 17:29:11 +0000</pubDate>
+      
+      <guid>https://example.com/2015/stats-nypd-work-stoppage/</guid>
+      <description>In reaction to what NYPD’s Police Benevolent Association chief Patrick Lynch calls a “hostile anti-police environment in the city,” officers are simply refusing to arrest or ticket people for minor offenses, leading to an overall arrest dropoff of nearly 66 percent.
+Matt Taibbi explains:</description>
+    </item>
+    
+    <item>
+      <title>Resources on Digital Trade &amp; The Transatlantic Trade and Investment Partnership</title>
+      <link>https://example.com/2014/resources-digital-trade-transatlantic-trade-investment-partnership/</link>
+      <pubDate>Mon, 03 Nov 2014 15:27:03 +0000</pubDate>
+      
+      <guid>https://example.com/2014/resources-digital-trade-transatlantic-trade-investment-partnership/</guid>
+      <description>I have been trying to educate myself on digital goods, digital trade, and the Transatlantic Trade and Investment Partnership (TTIP). Here are some resources from that research:
+ “Digital Trade in the U.S. and Global Economies” by United States International Trade Commission (Part 1, Part 2) “Digital Drag: Ranking 125 Nations by Taxes and Tariffs on ICT Goods and Services” by Ben Miller and Rob Atkinson at ITIF (source) “The Importance of the Internet and Transatlantic Data Flows for U.</description>
+    </item>
+    
+    <item>
+      <title>Healthcare.gov &amp; the Scalability Problem</title>
+      <link>https://example.com/2013/healthcare-gov-the-scalability-problem/</link>
+      <pubDate>Thu, 21 Nov 2013 05:13:32 +0000</pubDate>
+      
+      <guid>https://example.com/2013/healthcare-gov-the-scalability-problem/</guid>
+      <description>Scalability problems plague the creation of large web sites. This is especially poignant, given the Healthcare.gov web site fiasco:
+Thus, it is not uncommon for large IT projects like this to have overrun costs or fail:</description>
+    </item>
+    
+    <item>
+      <title>Forget About Too Little Information or Too Much Information, Think About Search Costs</title>
+      <link>https://example.com/2013/forget-about-too-little-information-or-too-much-information-think-about-search-costs/</link>
+      <pubDate>Wed, 17 Jul 2013 03:57:32 +0000</pubDate>
+      
+      <guid>https://example.com/2013/forget-about-too-little-information-or-too-much-information-think-about-search-costs/</guid>
+      <description>Poking around Cory Doctrow’s Tumblr site today, I came across a Neil Gaiman quote:
+From too little information to too much information in just a few short years? Presumably then, at some point there was a Goldilocks era when we had exactly the right amount of information. So, when exactly was that, 1998 or thereabouts? Gaiman’s rhetorical use of too much and too little information hardly makes sense when considered in finer detail.</description>
+    </item>
+    
+    <item>
+      <title>Frankenstein, the Modern Critical Horror Novel</title>
+      <link>https://example.com/2013/frankenstein-the-modern-critical-horror-novel/</link>
+      <pubDate>Tue, 21 May 2013 02:36:53 +0000</pubDate>
+      
+      <guid>https://example.com/2013/frankenstein-the-modern-critical-horror-novel/</guid>
+      <description>An essay at the Times Literary Supplement adds context to Frankenstein:</description>
+    </item>
+    
+    <item>
+      <title>The Embodiment of Technopanics – Gesture</title>
+      <link>https://example.com/2013/the-embodiment-of-technopanics-gesture/</link>
+      <pubDate>Sun, 21 Apr 2013 05:51:03 +0000</pubDate>
+      
+      <guid>https://example.com/2013/the-embodiment-of-technopanics-gesture/</guid>
+      <description>The ability to point to something out there that we both do not see, is the key difference. It hints at something larger, at a more basic relationship between abstract gesture and abstract communication. There are however many of these threads running between anthropology, neuroscience, and psychology that paint a complex mosaic of relationships connecting language with important bodily features like gesture, motion, emotion and reason. The total project that has tried to draw together many of the important thought is generally being called cognitive science, and gives us an important theoretical underpinning to the power of technopanics.</description>
+    </item>
+    
+    <item>
+      <title>“We are going to die, and that makes us the lucky ones…”</title>
+      <link>https://example.com/2013/we-are-going-to-die-and-that-makes-us-the-lucky-ones/</link>
+      <pubDate>Wed, 27 Mar 2013 18:42:51 +0000</pubDate>
+      
+      <guid>https://example.com/2013/we-are-going-to-die-and-that-makes-us-the-lucky-ones/</guid>
+      <description>“We are going to die, and that makes us the lucky ones. most people are never going to die because they are never going to be born. The potential people who could have been here in my place but who will in fact never see the light of day outnumber the sand grains of Sahara. Certainly those unborn ghosts include greater poets than Keats, scientists greater than Newton. We know this because the set of possible people allowed by our DNA so massively exceeds the set of actual people.</description>
+    </item>
+    
+    <item>
+      <title>TS Eliot’s “The Hollow Men”</title>
+      <link>https://example.com/2013/ts-eliots-the-hollow-men/</link>
+      <pubDate>Thu, 14 Mar 2013 20:23:43 +0000</pubDate>
+      
+      <guid>https://example.com/2013/ts-eliots-the-hollow-men/</guid>
+      <description>The best parts of this poem come from the end:
+Between the idea
+And the reality
+Between the motion
+And the act
+Falls the Shadow
+Between the conception
+And the creation
+Between the emotion
+And the response
+Falls the Shadow
+Between the desire
+And the spasm
+Between the potency
+And the existence
+Between the essence
+And the descent
+Falls the Shadow
+For Thine is
+Life is
+For Thine is the</description>
+    </item>
+    
+    <item>
+      <title>SEC Accuses the State of Illinois of Securities Fraud</title>
+      <link>https://example.com/2013/sec-accuses-the-state-of-illinois-of-securities-fraud/</link>
+      <pubDate>Mon, 11 Mar 2013 18:36:30 +0000</pubDate>
+      
+      <guid>https://example.com/2013/sec-accuses-the-state-of-illinois-of-securities-fraud/</guid>
+      <description>Yes, you read that title correctly. The NYT is reporting:
+ </description>
+    </item>
+    
+    <item>
+      <title>The Nuances of Neoliberalism</title>
+      <link>https://example.com/2013/the-nuances-of-neoliberalism/</link>
+      <pubDate>Thu, 07 Mar 2013 16:11:01 +0000</pubDate>
+      
+      <guid>https://example.com/2013/the-nuances-of-neoliberalism/</guid>
+      <description>“Masters of the Universe” will be the next book in the pile, largely due to a review by Michael Clune:
+I often find myself in discussions of neoliberalism and have implored others to consider a more detailed story of events, which this book seems to aim for. But Clune fails to mention the deregulation that occurred elsewhere in the economy, not just in monetary policy. Telecommunications, airlines and alcohol were all “deregulated,” the effect being lower prices and higher quality goods.</description>
+    </item>
+    
+    <item>
+      <title>Animals by Frank O’Hara</title>
+      <link>https://example.com/2013/animals-by-frank-ohara/</link>
+      <pubDate>Mon, 25 Feb 2013 20:17:30 +0000</pubDate>
+      
+      <guid>https://example.com/2013/animals-by-frank-ohara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commiting to Individualism Means Identity Politics Must be Part of the Conversation</title>
+      <link>https://example.com/2013/if-there-is-a-commitment-to-individualism-in-libertarianism-then-identity-politics-must-be-part-of-the-conversation/</link>
+      <pubDate>Sat, 23 Feb 2013 17:19:52 +0000</pubDate>
+      
+      <guid>https://example.com/2013/if-there-is-a-commitment-to-individualism-in-libertarianism-then-identity-politics-must-be-part-of-the-conversation/</guid>
+      <description>Over the last five years, the libertarian movement has expanded drastically. What was largely a niche group of individualist and anarchist radicals in the 1970s and 80s has been transformed in the last decade. Approval ratings for both of the parties have dropped as much as their views have grown apart. Bloated budgets, increased secularization and a distrust in governmental efficacy have furthered libertarian ideas.
+But there is a bias in this growth, as Gina Luttrell points out,</description>
+    </item>
+    
+    <item>
+      <title>Remembering Alchian Through His Ideas, or A Review of the Alchian-Allen Theorem</title>
+      <link>https://example.com/2013/remembering-alchian-through-his-ideas/</link>
+      <pubDate>Wed, 20 Feb 2013 22:19:47 +0000</pubDate>
+      
+      <guid>https://example.com/2013/remembering-alchian-through-his-ideas/</guid>
+      <description>Armen Alchian passed away earlier this week and in reading some of the remembrances, I came across this review of the Alchian-Allen Theorem, which I have posted the pertinent parts:</description>
+    </item>
+    
+    <item>
+      <title>Minimum Wage Laws Were Enacted To Ensure Institutional Racism</title>
+      <link>https://example.com/2013/minimum-wage-laws-were-enacted-to-ensure-institutional-racism/</link>
+      <pubDate>Thu, 14 Feb 2013 17:44:19 +0000</pubDate>
+      
+      <guid>https://example.com/2013/minimum-wage-laws-were-enacted-to-ensure-institutional-racism/</guid>
+      <description>A little known fact:
+If that isn’t institutional racism, then I don’t know what is.</description>
+    </item>
+    
+    <item>
+      <title>Companies Do Not Maximize Profits</title>
+      <link>https://example.com/2013/companies-do-not-maximize-profits/</link>
+      <pubDate>Mon, 11 Feb 2013 20:53:12 +0000</pubDate>
+      
+      <guid>https://example.com/2013/companies-do-not-maximize-profits/</guid>
+      <description>Contrary to the popular sentiment, companies do not maximize profits. Armen Alchian explains:
+ </description>
+    </item>
+    
+    <item>
+      <title>A Third of All Major Federal Rules Lack Notice-and-comment Procedures</title>
+      <link>https://example.com/2013/a-third-of-all-major-federal-rules-lack-notice-and-comment-procedures/</link>
+      <pubDate>Fri, 01 Feb 2013 16:19:22 +0000</pubDate>
+      
+      <guid>https://example.com/2013/a-third-of-all-major-federal-rules-lack-notice-and-comment-procedures/</guid>
+      <description>In 2008 I voted for Barack Obama; it is unlikely I will ever vote again. Back then, I was enamored by the political change that could have been achieved with a “great man.” Like so many other features of my previously liberal disposition, this has become yet another vestige.
+The State hasn’t changed all that much with Obama. As Susan Dudley notes,
+In the year that separates Obama and Bush, there was a huge jump.</description>
+    </item>
+    
+    <item>
+      <title>The Causes of Samsung’s Meteoric Rise</title>
+      <link>https://example.com/2013/the-keys-to-samsungs-meteoric-rise/</link>
+      <pubDate>Thu, 31 Jan 2013 18:40:56 +0000</pubDate>
+      
+      <guid>https://example.com/2013/the-keys-to-samsungs-meteoric-rise/</guid>
+      <description>When Apple rebranded itself under the second reign of Steve Jobs, one of the pillars of company was the production of tightly integrated products. Famously, the first iteration of the iTunes phone, the Motorola Rokr, was despised by Jobs, forcing the company to vertical integrate into handset production.
+As these things tend to happen, Samsung learned from Apple’s successes, built on them, and now the Korean company leads the mobile phone industry, though Apple is not far behind.</description>
+    </item>
+    
+    <item>
+      <title>The Difference Between a Tax, a Fee, and a Penalty</title>
+      <link>https://example.com/2013/the-difference-between-a-tax-a-fee-and-a-penalty/</link>
+      <pubDate>Fri, 25 Jan 2013 17:20:06 +0000</pubDate>
+      
+      <guid>https://example.com/2013/the-difference-between-a-tax-a-fee-and-a-penalty/</guid>
+      <description>The difference between a tax, a fee and a penalty is based on the purpose of the revenue.
+ A tax is a levy collected for general government services. A fee is levy collected to provide a service that benefits the group of people from which the money is collected. A penalty is a levy collected with the express aim of deterring some kind of undesirable behavior.  As tax economist Scott Drenkard explained to me, “This distinction became especially important recently when Justice Roberts went against over a century of tax jurisprudence by declaring the individual mandate to be a tax.</description>
+    </item>
+    
+    <item>
+      <title>7 Ways to Help Plan for the Future</title>
+      <link>https://example.com/2012/7-ways-to-help-plan-for-the-future/</link>
+      <pubDate>Tue, 20 Nov 2012 04:22:42 +0000</pubDate>
+      
+      <guid>https://example.com/2012/7-ways-to-help-plan-for-the-future/</guid>
+      <description>From the World Future Society, here are methods to help predict and plan for the future:
+ Systematically Scan the Media — Futurists often conduct ongoing and systematic surveys of news media and research institutes. These surveys help spot significant trends and technology breakthroughs. Futurists call this environmental scanning. Analyze and Extrapolate Trends — After the trends are identified, the next step is to plot the trends to show their direction and development into the future.</description>
+    </item>
+    
+    <item>
+      <title>What is a Technocrat?</title>
+      <link>https://example.com/2012/what-is-a-technocrat/</link>
+      <pubDate>Thu, 30 Aug 2012 20:41:47 +0000</pubDate>
+      
+      <guid>https://example.com/2012/what-is-a-technocrat/</guid>
+      <description>Last week I was chatting with a friend of mine at the Tax Foundation and he made a bold claim—I was a technocrat.
+At first, I was taken back. How could I ever be construed as a technocrat? I didn’t believe in technocracy at all. I asked him a couple of days later to define exactly what he meant and he said, “if you are having any constructive role in designing (implementing or suggesting the design) the specific institutional arrangement employed by the State, you are a technocrat.</description>
+    </item>
+    
+    <item>
+      <title>Assorted Links</title>
+      <link>https://example.com/2012/assorted-links-2/</link>
+      <pubDate>Tue, 14 Aug 2012 19:26:42 +0000</pubDate>
+      
+      <guid>https://example.com/2012/assorted-links-2/</guid>
+      <description>This version of assorted links is dedicated to big data:
+ Advances in Large Scale Computing at Google Trying to Keep Relevant with Search Means Baking in Big Data for Google The Algorithm that Runs the Innovation Economy  </description>
+    </item>
+    
+    <item>
+      <title>Messianic Time</title>
+      <link>https://example.com/2012/messianic-time/</link>
+      <pubDate>Tue, 15 May 2012 03:53:24 +0000</pubDate>
+      
+      <guid>https://example.com/2012/messianic-time/</guid>
+      <description>Some possible evidence for messianic time from “The Classical Tradition” by Gilbert Highet—
+ Romulus, Remus and two wolves (c. 800 B.C.?); the adoration of the Wise Men (A.D. 1); the capture of Jerusalem by the Romans (c. A.D. 70); the story of Weland and Beadogild (c. A.D. 400?); and an unknown myth, as well as an inscription about the whale itself    </description>
+    </item>
+    
+    <item>
+      <title>The Etymology of the word “Artifact”</title>
+      <link>https://example.com/2012/the-etymology-of-the-word-artifact/</link>
+      <pubDate>Mon, 16 Jan 2012 06:18:25 +0000</pubDate>
+      
+      <guid>https://example.com/2012/the-etymology-of-the-word-artifact/</guid>
+      <description>Sociologists use the term artifact to describe an item made by the skill of human. Interestingly they concern themselves with the production of the item and not its use; this is one of the largely infuriating problems with sociology. It is not in the production of an item that we are able to give things value but in their consumption and use.</description>
+    </item>
+    
+    <item>
+      <title>Comments</title>
+      <link>https://example.com/2011/comments/</link>
+      <pubDate>Sun, 30 Oct 2011 00:17:57 +0000</pubDate>
+      
+      <guid>https://example.com/2011/comments/</guid>
+      <description>Cyborgs are things of tension and intrigue. They are the work of fiction, living in between the social and technological, part human and machine. We too are cyborgs, living in the subtle shading of our narrative fictions, between the social and technological, part human and part machine.
+I have begun to think more clearly about the famous bobo doll studies because it occurred to me the kinds of assumptions involved. Primarily this is a study on play/games.</description>
+    </item>
+    
+    <item>
+      <title>The Future of Legislation or, What is Customary Law?</title>
+      <link>https://example.com/2011/the-future-of-legislation-or-what-is-customary-law/</link>
+      <pubDate>Tue, 18 Oct 2011 22:50:25 +0000</pubDate>
+      
+      <guid>https://example.com/2011/the-future-of-legislation-or-what-is-customary-law/</guid>
+      <description>I have been reading John Hasnas recently, which has been beneficial for a number of reasons, though it has been slightly toxic to my mental health. His telling of the history of law has made me rethink much of my conception of law. Mind you, I am not a lawyer, so I do not profess an intimate knowledge of legal scholarship, but his distinction between kinds of laws (customary law and judge made law) has pushed me down a number of interesting avenues of thought, and shored up something thinking, which I want to lay out here.</description>
+    </item>
+    
+    <item>
+      <title>Why The Concern with Troy Davis Irks Me</title>
+      <link>https://example.com/2011/why-the-concern-with-troy-davis-irks-me/</link>
+      <pubDate>Fri, 14 Oct 2011 18:18:22 +0000</pubDate>
+      
+      <guid>https://example.com/2011/why-the-concern-with-troy-davis-irks-me/</guid>
+      <description>Let me start off saying this, it was horrible that Troy Davis got executed, beyond our country’s continued choice to execute criminals. I am sad that the burden of proof was so low that he was sent to his death.
+Regardless, I think it was deplorable on the part of white America to care about Troy Davis. And for those who poured out grief, you, comrade, have no clue. Of course we had to care, he was a perfect victim.</description>
+    </item>
+    
+    <item>
+      <title>Random Quotes</title>
+      <link>https://example.com/2011/random-quotes/</link>
+      <pubDate>Fri, 07 Oct 2011 05:30:46 +0000</pubDate>
+      
+      <guid>https://example.com/2011/random-quotes/</guid>
+      <description>Richard Rorty describing ironists and thus the entire hipster culture,
+ [Ironists] realize that anything can be made to look good or bad by being redescribed … [They] are always aware that the terms in which they describe themselves are subject to change, always aware of the contingency and fragility of their final vocabularies and thus of their selves.
+ The Prince’s important first sentences:
+ Two aspects of animal life impressed me most during the journeys which I made in my youth in Eastern Siberia and Northern Manchuria.</description>
+    </item>
+    
+    <item>
+      <title>The Bureaucratic State – A Construction</title>
+      <link>https://example.com/2011/the-bureaucratic-state-a-construction/</link>
+      <pubDate>Mon, 03 Oct 2011 19:28:08 +0000</pubDate>
+      
+      <guid>https://example.com/2011/the-bureaucratic-state-a-construction/</guid>
+      <description>I am going to begin using this page as a place to outline my theory of the Bureaucratic State
+ In bureaucracies many people have the authority to say no, not the authority to say yes. It is in vogue to prognosticate on the ephemeral features of our society. The postmodern turn it is called. But a full application of this very simple viewpoint still lacks with regard to the bureaucratic state.</description>
+    </item>
+    
+    <item>
+      <title>The Andy Grove Formula via Eric Schmidt</title>
+      <link>https://example.com/2011/the-andy-grove-formula-via-eric-schmidt/</link>
+      <pubDate>Mon, 03 Oct 2011 15:03:04 +0000</pubDate>
+      
+      <guid>https://example.com/2011/the-andy-grove-formula-via-eric-schmidt/</guid>
+      <description>Eric Schmidt channeling Andy Grove:
+ “This is easy to understand. High tech runs three-times faster than normal businesses. And the government runs three-times slower than normal businesses. So we have a nine-times gap.”
+ </description>
+    </item>
+    
+    <item>
+      <title>Erving Goffman on the Shore</title>
+      <link>https://example.com/2011/erving-goffman-on-the-shore/</link>
+      <pubDate>Sat, 01 Oct 2011 22:43:20 +0000</pubDate>
+      
+      <guid>https://example.com/2011/erving-goffman-on-the-shore/</guid>
+      <description>How aware are the people on the Jersey Shore of their performance?</description>
+    </item>
+    
+    <item>
+      <title>Remember the Golden Era</title>
+      <link>https://example.com/2011/remember-the-golden-era/</link>
+      <pubDate>Fri, 23 Sep 2011 15:51:20 +0000</pubDate>
+      
+      <guid>https://example.com/2011/remember-the-golden-era/</guid>
+      <description>When there are calls for regulation on the net, remember the good ol days,
+ Most people have already forgotten how dark and unsignposted the Internet once was. A user in 1996, when the Web comprised hundreds of thousands of “sites” with millions of “pages,” did not expect to be able to search for “Olympics” and automatically find the official site of the Atlanta games. That was too hard a problem.</description>
+    </item>
+    
+    <item>
+      <title>Sentences to Commit to Memory</title>
+      <link>https://example.com/2011/sentences-to-commit-to-memory/</link>
+      <pubDate>Fri, 26 Aug 2011 04:16:50 +0000</pubDate>
+      
+      <guid>https://example.com/2011/sentences-to-commit-to-memory/</guid>
+      <description>I am currently reading Franz Oppenheimer,
+ The moment when the first conqueror spared his victim in order permanently to exploit him in productive work, was of incomparable historical significance. It gave birth to nation and state, to right and the higher economics, with all the developments and ramifications which have grown and which will hereafter grow out of them.
+ </description>
+    </item>
+    
+    <item>
+      <title>Marshall McLuhan’s Extension</title>
+      <link>https://example.com/2011/marshall-mcluhans-extension/</link>
+      <pubDate>Sun, 21 Aug 2011 19:37:23 +0000</pubDate>
+      
+      <guid>https://example.com/2011/marshall-mcluhans-extension/</guid>
+      <description>Some will argue that the changes we are experiencing are detrimental. I don’t take the same tact and others are beginning to agree,
+ Andy Clark, a professor of philosophy at the University of Edinburgh in Scotland, says there’s a deeper principle to be found in the phantom limb assertion. In his book Natural Born Cyborgs, Clark claims that our brains depend entirely on perceived correlations in order to construct an arbitrary boundary between our bodies and the external world.</description>
+    </item>
+    
+    <item>
+      <title>Silicon Valley is Undervalued</title>
+      <link>https://example.com/2011/silicon-valley-is-undervalued/</link>
+      <pubDate>Sun, 21 Aug 2011 19:11:22 +0000</pubDate>
+      
+      <guid>https://example.com/2011/silicon-valley-is-undervalued/</guid>
+      <description>Marc Andreesen:
+ Too much of the debate is still around financial valuation, as opposed to the underlying intrinsic value of the best of Silicon Valley’s new companies. My own theory is that we are in the middle of a dramatic and broad technological and economic shift in which software companies are poised to take over large swathes of the economy. More and more major businesses and industries are being run on software and delivered as online services—from movies to agriculture to national defense.</description>
+    </item>
+    
+    <item>
+      <title>Sentences of Interest/Intrigue</title>
+      <link>https://example.com/2011/sentences-of-interestintrigue/</link>
+      <pubDate>Sun, 21 Aug 2011 18:42:27 +0000</pubDate>
+      
+      <guid>https://example.com/2011/sentences-of-interestintrigue/</guid>
+      <description>From Wired,
+ “To the naked eye, two people may appear identical,” says Major Leandro Pavani Agostini, chief of military police in Sao Paolo. But these powerful shades can scan up to 400 faces per second, up to 50 yards away, using 46,000 biometric points to identify an individual and ensure a correct match.
+ </description>
+    </item>
+    
+    <item>
+      <title>“The Crack Attack: America’s Latest Drug Scare 1986-1992”</title>
+      <link>https://example.com/2011/the-crack-attack-americas-latest-drug-scare-1986-1992/</link>
+      <pubDate>Sat, 13 Aug 2011 02:32:48 +0000</pubDate>
+      
+      <guid>https://example.com/2011/the-crack-attack-americas-latest-drug-scare-1986-1992/</guid>
+      <description>Rereading this article, I was astonished by a couple of sentences:
+ America’s drug problems functioned as opportunities for the imposition of an old moral agenda and the appearance of a new social concern. Moreover, the remedies that followed from this view were in perfect harmony with “traditional family values” – individual moral discipline and abstinence, combined with police and prisons for those who indulged. Such remedies avoided all questions about the economic and political sources of and solutions to America’s social problems.</description>
+    </item>
+    
+    <item>
+      <title>Why the RIAA will Fall</title>
+      <link>https://example.com/2011/why-the-riaa-will-fall/</link>
+      <pubDate>Sat, 13 Aug 2011 02:07:46 +0000</pubDate>
+      
+      <guid>https://example.com/2011/why-the-riaa-will-fall/</guid>
+      <description>The record industry, in its heyday, was the largest entertainment industry, bigger than sports and film. As the saying goes, big tree fall hard. In Politico’s morning tech roundup,
+ Cary Sherman won’t take over the reins of the Recording Industry Association of America until Sept. 1, but the newly minted chief executive officer and chairman of the powerful music lobby already has a clear idea of what policy areas he wants to tackle right out of the gate.</description>
+    </item>
+    
+    <item>
+      <title>Sentences from Law Legislation and Liberty</title>
+      <link>https://example.com/2011/sentences-from-law-legislation-and-liberty/</link>
+      <pubDate>Wed, 10 Aug 2011 18:41:32 +0000</pubDate>
+      
+      <guid>https://example.com/2011/sentences-from-law-legislation-and-liberty/</guid>
+      <description>Hayek:
+ Man is as much a rule-following animal as a purpose-seeking one. And he is successful not because he knows why he ought to observe the rules which he does observe, or is even capable of stating all these rules in words, but because his thinking and acting are governed by rules which have by a process of selection been evolved in a society in which he lives, and which are thus the product of the experience of generations</description>
+    </item>
+    
+    <item>
+      <title>For Economists</title>
+      <link>https://example.com/2011/for-economists/</link>
+      <pubDate>Thu, 04 Aug 2011 19:35:32 +0000</pubDate>
+      
+      <guid>https://example.com/2011/for-economists/</guid>
+      <description>Don’t let us forget that the causes of human actions are usually immeasurably more complex and varied than our subsequent explanations of them.
+-Fyodor Dostoevsky __</description>
+    </item>
+    
+    <item>
+      <title>Metaphors I Enjoy Shakespearean Edition</title>
+      <link>https://example.com/2011/metaphors-i-enjoy-shakespearean-edition/</link>
+      <pubDate>Thu, 04 Aug 2011 00:47:46 +0000</pubDate>
+      
+      <guid>https://example.com/2011/metaphors-i-enjoy-shakespearean-edition/</guid>
+      <description>Over the past three weeks, we’ve seen just about every act there is to this political theater and, staying true to the time of Shakespeare, it seems every character is played by a man. Odds are that if there were more women in these discussions, the crisis would have been resolved by now.
+ Is the debt ceiling really an issue that needs to be negotiated? Or, is it part of a horrible game?</description>
+    </item>
+    
+    <item>
+      <title>Limited Government vs. Big Government and Policing</title>
+      <link>https://example.com/2011/limited-government-vs-big-government/</link>
+      <pubDate>Thu, 28 Jul 2011 15:49:54 +0000</pubDate>
+      
+      <guid>https://example.com/2011/limited-government-vs-big-government/</guid>
+      <description>It is not as simple as limited government and big government. Will Wilkinson explains,
+ In reality, Americans get a mix of all this from their government. We get some totally legit public goods. We get certain goods and services, generally at a reduced level of quality, that some people would have paid for anyway but others can’t afford. We get a lot of straight-up destruction of wealth and welfare from deadweight loss, negative-sum transfers, and stupid wars.</description>
+    </item>
+    
+    <item>
+      <title>Wille Zum Leben</title>
+      <link>https://example.com/2011/wille-zum-leben/</link>
+      <pubDate>Tue, 26 Jul 2011 21:11:35 +0000</pubDate>
+      
+      <guid>https://example.com/2011/wille-zum-leben/</guid>
+      <description>I use Schopenhauer’s term in a looser manner. Nevertheless, it just rolls off the tongue,
+ White-footed mice, stranded on isolated urban islands, are evolving to adapt to urban stress. Fish in the Hudson have evolved to cope with poisons in the water. Native ants find refuge in the median strips on Broadway. And more familiar urban organisms, like bedbugs, rats and bacteria, also mutate and change in response to the pressures of the metropolis.</description>
+    </item>
+    
+    <item>
+      <title>Public Choice Economics in Policing</title>
+      <link>https://example.com/2011/public-choice-economics-in-policing/</link>
+      <pubDate>Tue, 26 Jul 2011 20:49:55 +0000</pubDate>
+      
+      <guid>https://example.com/2011/public-choice-economics-in-policing/</guid>
+      <description>Public choice applies to policing,
+ In the police world, there are good arrests and better arrests, but there is no such thing as a bad arrest. In recent years, measures of “productivity” have achieved an almost totemic significance. And because they are so easy to count, arrests have come to outweigh more important but harder-to-quantify variables such as crimes prevented, fights mitigated, or public fears assuaged.
+There’s an argument that putting pressure on rank-and-file officers to make lots of arrests is a good thing.</description>
+    </item>
+    
+    <item>
+      <title>Notes on Adam Smith</title>
+      <link>https://example.com/2011/notes-on-adam-smith/</link>
+      <pubDate>Tue, 26 Jul 2011 20:30:41 +0000</pubDate>
+      
+      <guid>https://example.com/2011/notes-on-adam-smith/</guid>
+      <description>Two things.
+A. Adam Smith used the invisible hand metaphor once in the Wealth of Nations. It was not a central concept but a central metaphor. Smith used a number of these metaphors to describe what he saw happening around him, but this is not to say that it is the same as a concept. We need to focus, not on the metaphor, but the meaning and the sense that he was trying to convey.</description>
+    </item>
+    
+    <item>
+      <title>Michael Porter on Competition</title>
+      <link>https://example.com/2011/michael-porter-on-competition/</link>
+      <pubDate>Tue, 26 Jul 2011 17:41:01 +0000</pubDate>
+      
+      <guid>https://example.com/2011/michael-porter-on-competition/</guid>
+      <description>An oldie but a goodie:
+ Competition for proﬁts goes beyond established industry rivals to include four other competitive forces as well: customers, suppliers, potential entrants, and substitute products. The extended rivalry that results from all ﬁve forces deﬁnes an industry’s structure and shapes the nature of competitive interaction within an industry.
+ I would also add in another competitive force – the public, or non-market forces.</description>
+    </item>
+    
+    <item>
+      <title>What is the Difference between Culture and Society?</title>
+      <link>https://example.com/2011/what-is-the-difference-between-culture-and-society/</link>
+      <pubDate>Tue, 26 Jul 2011 17:40:19 +0000</pubDate>
+      
+      <guid>https://example.com/2011/what-is-the-difference-between-culture-and-society/</guid>
+      <description>Culture tends to refer to the artifact.
+S0ciety/social tends to refer to the behavior or action.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Club</title>
+      <link>https://example.com/2011/welcome-to-the-club/</link>
+      <pubDate>Tue, 26 Jul 2011 17:24:55 +0000</pubDate>
+      
+      <guid>https://example.com/2011/welcome-to-the-club/</guid>
+      <description>Google’s in-house philosopher explains his conversion from technologist to humanist,
+ In learning the limits of my technologist worldview, I didn’t just get a few handy ideas about how to build better AI systems. My studies opened up a new outlook on the world. I would unapologetically characterize it as a personal intellectual transformation: a renewed appreciation for the elements of life that are not scientifically understood or technologically engineered.</description>
+    </item>
+    
+    <item>
+      <title>Apple Considering Buying Hulu</title>
+      <link>https://example.com/2011/apple-considering-buying-hulu/</link>
+      <pubDate>Fri, 22 Jul 2011 15:06:50 +0000</pubDate>
+      
+      <guid>https://example.com/2011/apple-considering-buying-hulu/</guid>
+      <description>Apple Inc. (AAPL), with $76.2 billion in cash and securities on its books, is considering making a bid for the Hulu online video service, two people with knowledge of the auction said.
+Apple, the world’s second-most-valuable company, is in early talks that may lead to an offer for Hulu, said the people, who weren’t authorized to speak publicly.
+ To make it more visceral,</description>
+    </item>
+    
+    <item>
+      <title>You Are Responsible for Your Community</title>
+      <link>https://example.com/2011/you-are-responsible-for-your-community/</link>
+      <pubDate>Fri, 22 Jul 2011 03:05:05 +0000</pubDate>
+      
+      <guid>https://example.com/2011/you-are-responsible-for-your-community/</guid>
+      <description>Anil Dash doesn’t mince words,
+ How many times have you seen a website say “We’re not responsible for the content of our comments.”? I know that when you webmasters put that up on your sites, you’re trying to address your legal obligation. Well, let me tell you about your moral obligation: Hell yes, you are responsible. You absolutely are. When people are saying ruinously cruel things about each other, and you’re the person who made it possible, it’s 100% your fault.</description>
+    </item>
+    
+    <item>
+      <title>A Primatologist Discussing Wall Street Bonuses and Some Other Things</title>
+      <link>https://example.com/2011/a-primatologist-discussing-wall-street-bonuses/</link>
+      <pubDate>Thu, 21 Jul 2011 17:47:09 +0000</pubDate>
+      
+      <guid>https://example.com/2011/a-primatologist-discussing-wall-street-bonuses/</guid>
+      <description>Frans de Waal,
+ I think the sense of fairness in humans is very strongly developed and that’s why we react so strongly to all the bonuses received by Wall Street executives. We want to know why they deserve these benefits. The anger we have towards Wall Street is probably a very old primate reaction that relates to cooperation. If you are a cooperative animal you need to watch what you get.</description>
+    </item>
+    
+    <item>
+      <title>Desmond Morris in the Introduction to Chimpanzee Politics</title>
+      <link>https://example.com/2011/desmond-morris-in-the-introduction-to-chimpanzee-politics/</link>
+      <pubDate>Thu, 21 Jul 2011 16:45:07 +0000</pubDate>
+      
+      <guid>https://example.com/2011/desmond-morris-in-the-introduction-to-chimpanzee-politics/</guid>
+      <description>Quotable,
+ The message of this important book is, in the author’s words, ‘the roots of politics are older than humanity.’ It is a message that pleases me but I suspect it will upset many, including some of our leading political figures.
+ </description>
+    </item>
+    
+    <item>
+      <title>How do you shut down debate? Call it anarchy!</title>
+      <link>https://example.com/2011/how-do-you-shut-down-debate-call-it-anarchy/</link>
+      <pubDate>Thu, 21 Jul 2011 15:37:21 +0000</pubDate>
+      
+      <guid>https://example.com/2011/how-do-you-shut-down-debate-call-it-anarchy/</guid>
+      <description>In an old chemist’s attic, so dreary and so mean,
+Oh smell the fearful odors of nitroglycerine
+They’re busy building bombs, and filling cans with nails
+And little starving kiddies set up this tearful wail:
+Oh, it’s sister Ginny’s turn to throw the bomb
+The last one it was thrown by brother John
+Mother’s aim is bad and the coppers all know Dad
+So it’s sister Ginny’s turn to throw the bomb</description>
+    </item>
+    
+    <item>
+      <title>Picard on the Closure of The News of the World</title>
+      <link>https://example.com/2011/picard-on-the-closure-of-the-news-of-the-world/</link>
+      <pubDate>Wed, 20 Jul 2011 18:55:52 +0000</pubDate>
+      
+      <guid>https://example.com/2011/picard-on-the-closure-of-the-news-of-the-world/</guid>
+      <description>Prof. Picard comments,
+ Perhaps it was embarrassment—but it was more likely the loss of revenue, the loss of almost $3 billion in market value for the parent company because of declining share prices, the hundreds of millions of pounds in damages that will have to be paid, and the fact that the paper’s meltdown was endangering Murdoch’s takeover of BskyB—that led him to kill the paper.
+ I tend to agree with him on this one.</description>
+    </item>
+    
+    <item>
+      <title>Contra-Marxism</title>
+      <link>https://example.com/2011/contra-marxism/</link>
+      <pubDate>Mon, 18 Jul 2011 03:08:54 +0000</pubDate>
+      
+      <guid>https://example.com/2011/contra-marxism/</guid>
+      <description>There is no denying it. Marx is an intellectual force. With an influence on economic sociology, critical theory, political science and the political economy of communication, his is a voice that is always singing loudly. To me, though, it is a swan song that never seems to end that final crescendo. His economics, which came directly from Adam Smith, Malthus and many of the classical economists, fell intellectually with the marginalist revolution and then was buried with Hayek.</description>
+    </item>
+    
+    <item>
+      <title>First Mover Advantage Only Lasts So Long</title>
+      <link>https://example.com/2011/first-mover-advantage-only-lasts-so-long/</link>
+      <pubDate>Sun, 17 Jul 2011 05:33:12 +0000</pubDate>
+      
+      <guid>https://example.com/2011/first-mover-advantage-only-lasts-so-long/</guid>
+      <description>Via Metafilter, a look inside Research in Motion:
+ Let’s rewind a few years. Picture yourself sitting in an executive briefing at Research In Motion. You’d hear Mike Lazaridis unequivocally state time and time again that BlackBerry smartphones would never have MP3 players or cameras in them because it just does not make sense when the company’s primary customers were the government and enterprise. “BlackBerry smartphones will never have cameras because the No.</description>
+    </item>
+    
+    <item>
+      <title>The War Metaphor, or Only Some Really Get It</title>
+      <link>https://example.com/2011/the-war-metaphor-or-some-get-it/</link>
+      <pubDate>Fri, 15 Jul 2011 17:07:34 +0000</pubDate>
+      
+      <guid>https://example.com/2011/the-war-metaphor-or-some-get-it/</guid>
+      <description>One of the reason I decided to go to graduate school was to better understand arguments, language, and their relationship to policy. Jerry Brito gets it, where few do:</description>
+    </item>
+    
+    <item>
+      <title>Master’s Thesis Mayham</title>
+      <link>https://example.com/2011/masters-thesis-mayham/</link>
+      <pubDate>Fri, 15 Jul 2011 15:14:49 +0000</pubDate>
+      
+      <guid>https://example.com/2011/masters-thesis-mayham/</guid>
+      <description>Articles of interest for my master’s thesis:
+An essay by Yochai Benkler challenging the notion of innate human selfishness and the rational actor theory. Link
+To understand the economic crisis, you don’t need an economist, you need a psychologist. It is a morality play. Link
+   </description>
+    </item>
+    
+    <item>
+      <title>The Temptation of Meaning</title>
+      <link>https://example.com/2011/a-quote-by-slavoj/</link>
+      <pubDate>Fri, 15 Jul 2011 15:10:57 +0000</pubDate>
+      
+      <guid>https://example.com/2011/a-quote-by-slavoj/</guid>
+      <description>Even though I am decidedly against his economic views, I find Slavoj Zizek, like other Marxist philosophers, endlessly interesting. He is a challenge. But here is a quote that I think is well worth your time regardless of your politics/philosophy:
+ Why is resisting the temptation of meaning so difficult? It’s incredible how we philosophers, even when so-called ordinary people approach us, ultimately the question is always the meaning of life.</description>
+    </item>
+    
+    <item>
+      <title>Some Interesting Points from Brink Lindsey’s The Age of Abundance</title>
+      <link>https://example.com/2011/some-interesting-points-from-brink-lindseys-the-age-of-abundance/</link>
+      <pubDate>Wed, 13 Jul 2011 22:23:04 +0000</pubDate>
+      
+      <guid>https://example.com/2011/some-interesting-points-from-brink-lindseys-the-age-of-abundance/</guid>
+      <description>This will get updated as I read through the book
+ Adolescence came into general use around the turn of the 20th century as the time between adulthood and childhood became protracted enough to require a name. Everything about [Elvis] – his country-boy simplicity, the stripped-down rawness of his sound, and the screaming swooning pandemonium that surrounded him – proclaimed the rude vitality of the primitive. He was Rousseau’s noble savage, updated with a swivel and a sneer.</description>
+    </item>
+    
+    <item>
+      <title>Notes on Constitutional Interpretation</title>
+      <link>https://example.com/2011/notes-on-constitutional-interpretation-part-1/</link>
+      <pubDate>Tue, 12 Jul 2011 23:24:02 +0000</pubDate>
+      
+      <guid>https://example.com/2011/notes-on-constitutional-interpretation-part-1/</guid>
+      <description>What follows is by no means new, but I just wanted to try to apply critiques central to literary theory to a new set of circumstances to better illuminate them for myself.
+One of the pillars of the Tea Party is the importance of the Constitution. As the argument goes, the Constitution says what it means. It does not need to be interpreted by a judiciary because if the Framers had wished to include this statement or that clause, they would have.</description>
+    </item>
+    
+    <item>
+      <title>Sane Sentences on the Prison System</title>
+      <link>https://example.com/2011/sane-sentences-on-the-prison-system/</link>
+      <pubDate>Mon, 11 Jul 2011 14:17:30 +0000</pubDate>
+      
+      <guid>https://example.com/2011/sane-sentences-on-the-prison-system/</guid>
+      <description>Thomas Knapp:
+ Guilt versus innocence? What weight do they carry when placed opposite the prison construction lobby and the police and “corrections” unions, who stand ready to weigh in with money and endorsements for any politician whose line is “more arrests, more convictions, more jails” … or to come down like a ton of bricks on any candidate who suggests, however mildly, that more than two million prisoners and nearly one in every thirty Americans under “correctional supervision” may be overdoing it just a tad?</description>
+    </item>
+    
+    <item>
+      <title>The Unity of Liberals</title>
+      <link>https://example.com/2011/the-unity-of-liberals/</link>
+      <pubDate>Fri, 08 Jul 2011 23:09:17 +0000</pubDate>
+      
+      <guid>https://example.com/2011/the-unity-of-liberals/</guid>
+      <description>In order to alleviate a system marked with inequality, all liberals allocate guilt, albeit in different places. For Marxists, it is capital. For feminists, gender is to blame. For libertarians, it is the state, and for your run of the mill whole wheat liberal, it is big business.</description>
+    </item>
+    
+    <item>
+      <title>Was the American Revolution Conservative?</title>
+      <link>https://example.com/2011/was-the-american-revolution-conservative/</link>
+      <pubDate>Fri, 08 Jul 2011 22:40:24 +0000</pubDate>
+      
+      <guid>https://example.com/2011/was-the-american-revolution-conservative/</guid>
+      <description>A simple question desires a simple answer.
+The overturning of political relations of authority is the essence of a revolution. In the French case, a certain idealistic zeal led to more, a bloodletting and then an overturning of the social relations. Regardless, any revolution because it changes relations of authority and power are by their very definition not conservative.</description>
+    </item>
+    
+    <item>
+      <title>Some Interesting Points from an American Interest Article</title>
+      <link>https://example.com/2011/some-interesting-points-from-an-american-interest-article/</link>
+      <pubDate>Fri, 08 Jul 2011 18:04:50 +0000</pubDate>
+      
+      <guid>https://example.com/2011/some-interesting-points-from-an-american-interest-article/</guid>
+      <description>Some interesting points from this American Interest article:
+ There is no ‘Iraqi People’. The phrase should be banned as misleading and purely rhetorical. . . . What is not understood is that Iraq, like the other countries of the region, still stands at a level of social evolution where the family, clan, tribe and sect command major allegiance. The idea of the individual autonomous voter, necessary and commonplace in our own systems, is relatively foreign.</description>
+    </item>
+    
+    <item>
+      <title>Tim Lee on Patent Law</title>
+      <link>https://example.com/2011/tim-lee-on-patent-law/</link>
+      <pubDate>Thu, 07 Jul 2011 15:14:49 +0000</pubDate>
+      
+      <guid>https://example.com/2011/tim-lee-on-patent-law/</guid>
+      <description>Tim Lee charting the intersection of law and innovation:
+ Getting software patents takes a lot of work, but it’s not primarily engineering effort. The complexity of software and low standards for patent eligibility mean that software engineers produce potentially patentable ideas all the time. But most engineers don’t think of these relatively trivial ideas as “inventions” worthy of a patent. What’s needed to get tens of thousands of patents is a re-education campaign to train engineers to write down every trivial idea that pops into their heads, and a large and disciplined legal bureaucracy to turn all those ideas into patent applications.</description>
+    </item>
+    
+    <item>
+      <title>Innovation in Agriculture</title>
+      <link>https://example.com/2011/innovation/</link>
+      <pubDate>Wed, 06 Jul 2011 18:24:24 +0000</pubDate>
+      
+      <guid>https://example.com/2011/innovation/</guid>
+      <description>From Marginal Revolution:
+ Take the case of the Netherlands. Unbeknown to most people, it is world’s third largest agricultural exporter, despite having little land (it has the world’s fifth highest population density). This has been possible because the Dutch have “industrialised” agriculture by, for example, deploying hydroponic agriculture (growing plants in water) that uses computer-controlled feeding of high-quality chemicals—something that would not have been possible if the Netherlands did not have some of the world’s most advanced chemical and electronics industries.</description>
+    </item>
+    
+    <item>
+      <title>Manufactured Moral Outrage</title>
+      <link>https://example.com/2011/manufactured-moral-outrage/</link>
+      <pubDate>Wed, 06 Jul 2011 15:01:59 +0000</pubDate>
+      
+      <guid>https://example.com/2011/manufactured-moral-outrage/</guid>
+      <description>The title explains it all, or those with the loudest voices and most raucous moral outrage are the ones that seem to hold the least informed opinions:
+From the point of view of a media scholar, it is interesting to see how the facts got so distorted. This decision was a huge upset to many of the commentators, Nancy Grace is my particular favorite, and yet as the closing arguments brutally explain, there is no way a jury could legally convict her.</description>
+    </item>
+    
+    <item>
+      <title>Competition in the Markets</title>
+      <link>https://example.com/2011/competition-in-the-markets/</link>
+      <pubDate>Wed, 29 Jun 2011 22:52:35 +0000</pubDate>
+      
+      <guid>https://example.com/2011/competition-in-the-markets/</guid>
+      <description>Apple is going to price the iPhone 3GS at zero dollars when the iPhone 5 is released.</description>
+    </item>
+    
+    <item>
+      <title>Words of Wisdom from Will Wilkinson</title>
+      <link>https://example.com/2011/words-of-wisdom-from-will-wilkinson/</link>
+      <pubDate>Mon, 13 Jun 2011 18:20:13 +0000</pubDate>
+      
+      <guid>https://example.com/2011/words-of-wisdom-from-will-wilkinson/</guid>
+      <description>Will Wilkinson:
+ The pretence that everything has to be “fair” or “make sense”, or that anything at all can be done about the present providential dispensation is the height of folly. But such is the human condition, especially the condition of New York City-based humans.
+ </description>
+    </item>
+    
+    <item>
+      <title>Werner Herzog on Colbert</title>
+      <link>https://example.com/2011/werner-herzog-on-colbert/</link>
+      <pubDate>Fri, 10 Jun 2011 18:06:21 +0000</pubDate>
+      
+      <guid>https://example.com/2011/werner-herzog-on-colbert/</guid>
+      <description>From the Colbert Report,
+ If I were only fact based, the book of books in literature would be the Manhattan phone directory – 4 million entries everything correct, but it dusts out of my ears and I do not know, do they dream at night? Does Mr. Jonathan Smith cry in his pillow at night? We do not know anything when we check the correct entries in the phone directory.</description>
+    </item>
+    
+    <item>
+      <title>Israel Kirzner on Advertising</title>
+      <link>https://example.com/2011/israel-kirzner-on-advertising/</link>
+      <pubDate>Wed, 08 Jun 2011 13:51:07 +0000</pubDate>
+      
+      <guid>https://example.com/2011/israel-kirzner-on-advertising/</guid>
+      <description>This link is self recommending.
+ </description>
+    </item>
+    
+    <item>
+      <title>The Drug War and Privacy</title>
+      <link>https://example.com/2011/the-drug-war-and-privacy/</link>
+      <pubDate>Mon, 06 Jun 2011 20:22:15 +0000</pubDate>
+      
+      <guid>https://example.com/2011/the-drug-war-and-privacy/</guid>
+      <description>A rundown of the most egregious privacy offenses made by the government in the name of morality:
+ </description>
+    </item>
+    
+    <item>
+      <title>The Private Provision of Public Goods</title>
+      <link>https://example.com/2011/the-private-provision-of-public-goods/</link>
+      <pubDate>Sun, 05 Jun 2011 19:10:43 +0000</pubDate>
+      
+      <guid>https://example.com/2011/the-private-provision-of-public-goods/</guid>
+      <description>The private provision of public goods, i.e. goods which are both non-excludeable and non-rival, is the prime concern of anarcho-capitalism. An example of this kind of philosophy can be found in Roderick Long’s writings, a pithy version of which was recently posted on his web site,
+ Charlotte Ward asks us to imagine a world without taxes. (“Don’t like taxes? Imagine a world without these services,” Tuesday.)
+Okay, let’s try. What would it be like?</description>
+    </item>
+    
+    <item>
+      <title>Blair Levin on CSPAN</title>
+      <link>https://example.com/2011/blair-levin-on-cspan/</link>
+      <pubDate>Sat, 04 Jun 2011 23:40:10 +0000</pubDate>
+      
+      <guid>https://example.com/2011/blair-levin-on-cspan/</guid>
+      <description>I was watching an interview with Blair Levin today on CSPAN and as he was questioned about the AT&amp;amp;T merger, he mentioned a new report by Berstein Research, which I was not aware of. A ZDNet article fills in the gaps,
+ Moffett noted that 44 million Americans are below the poverty line and 50 million are on food stamps. “Considerations of pricing power in telecom and media industries have traditionally been about competition, not affordability.</description>
+    </item>
+    
+    <item>
+      <title>Great Sentences</title>
+      <link>https://example.com/2011/great-sentences/</link>
+      <pubDate>Wed, 01 Jun 2011 19:14:07 +0000</pubDate>
+      
+      <guid>https://example.com/2011/great-sentences/</guid>
+      <description>Mises:
+ Nations and languages are not unchangeable categories but, rather, provisional results of a process in constant flux; they change from day to day, and so we see before us a wealth of intermediate forms whose classification requires some pondering.
+ </description>
+    </item>
+    
+    <item>
+      <title>Attorney Robert Corn-Revere Defends The Right to Offend</title>
+      <link>https://example.com/2011/attorney-robert-corn-revere-defends-the-right-to-offend/</link>
+      <pubDate>Tue, 31 May 2011 15:27:09 +0000</pubDate>
+      
+      <guid>https://example.com/2011/attorney-robert-corn-revere-defends-the-right-to-offend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perfect</title>
+      <link>https://example.com/2011/perfect/</link>
+      <pubDate>Wed, 25 May 2011 18:07:08 +0000</pubDate>
+      
+      <guid>https://example.com/2011/perfect/</guid>
+      <description>From Austro-Athenian Empire:
+ “[Police officers] need to move quickly, in split seconds, without giving a lot of thought to what the adverse consequences for them might be. … [A]nything that’s going to have a chilling effect on an officer moving – an apprehension that he’s being videotaped and may be made to look bad – could cost him or some citizen their life.” — Jim Pasco, Fraternal Order of Police</description>
+    </item>
+    
+    <item>
+      <title>Babbage’s Difference Engine No. 2</title>
+      <link>https://example.com/2011/babbages-difference-engine-no-2/</link>
+      <pubDate>Tue, 24 May 2011 21:31:32 +0000</pubDate>
+      
+      <guid>https://example.com/2011/babbages-difference-engine-no-2/</guid>
+      <description>Reading “The Information” by Gleick made me look this up:</description>
+    </item>
+    
+    <item>
+      <title>Assorted Links</title>
+      <link>https://example.com/2011/assorted-links/</link>
+      <pubDate>Sat, 21 May 2011 20:43:35 +0000</pubDate>
+      
+      <guid>https://example.com/2011/assorted-links/</guid>
+      <description> “Major Metaphors of Communication and some Constructivist Reflections on their Use” by Klaus Krippendorff Early Krugman on our dangerous obsession with competition Related to Krugman, recent studies on our closest relatives finds that cooperation not competition is the key to our evolution Depression and the end of impersonal trust   </description>
+    </item>
+    
+    <item>
+      <title>Earth, Water, Air and Fire</title>
+      <link>https://example.com/2011/earth-water-air-and-fire/</link>
+      <pubDate>Sat, 21 May 2011 18:22:52 +0000</pubDate>
+      
+      <guid>https://example.com/2011/earth-water-air-and-fire/</guid>
+      <description>From Eureka The Birth of Science by Andrew Gregory:
+ The philosopher Empedocles of Acragas introduced the four elements of earth, water, air and fire, which were to become standard in Greek thought. These should not be understood as literally earth, water, and so on, but in a slightly more abstract manner as solid, liquid, gas and fire or as principles of solidity, fluidity, gasesousness and fieriness. (pg. 28)
+ Some things not new but worth reviewing and remembering:</description>
+    </item>
+    
+    <item>
+      <title>Frame Incommensurability</title>
+      <link>https://example.com/2011/frame-incommensurability/</link>
+      <pubDate>Sat, 21 May 2011 17:57:47 +0000</pubDate>
+      
+      <guid>https://example.com/2011/frame-incommensurability/</guid>
+      <description>Framing theory is one of the bulwarks of communication scholarship. For social scientists, a frame is seen as the way that a person interprets and gives meaning to the world. They are filters that we use to make sense of events and make decisions. Think about yourself. You see the world through a lens that is not the same as others. You interpret events with a given set of schema and viewpoints.</description>
+    </item>
+    
+    <item>
+      <title>Intense</title>
+      <link>https://example.com/2011/intense/</link>
+      <pubDate>Mon, 16 May 2011 21:46:57 +0000</pubDate>
+      
+      <guid>https://example.com/2011/intense/</guid>
+      <description>From Marginal Revolution:
+ Even if it is assumed that the daily number of calories available for work was the same in the United States in 1860 as today, the intensity of work per hour would have been well below today’s levels, since the average number of hours worked in 1860 was 1.75 times as great as today. During the mid nineteenth century, only slaves on southern gang-system plantations appear to have worked at levels of intensity per hour approaching current standards.</description>
+    </item>
+    
+    <item>
+      <title>Interesting Sentences</title>
+      <link>https://example.com/2011/interesting-sentences/</link>
+      <pubDate>Mon, 16 May 2011 19:36:10 +0000</pubDate>
+      
+      <guid>https://example.com/2011/interesting-sentences/</guid>
+      <description>From this blog comes this paragraph:
+ So losing our belief in free will could have negative effects on those around us. It could also undermine our own success in life. In a recent study, Tyler Stillman of Florida State University, working with Vohs, Baumeister and others, found that people who said they believed strongly in free will also tended to have more positive expectations about their career success. Is this just delusional thinking?</description>
+    </item>
+    
+    <item>
+      <title>Forty Literary Terms You Should Know</title>
+      <link>https://example.com/2011/forty-literary-terms-you-should-know/</link>
+      <pubDate>Sat, 14 May 2011 23:21:45 +0000</pubDate>
+      
+      <guid>https://example.com/2011/forty-literary-terms-you-should-know/</guid>
+      <description>From the Centered Librarian, 40 literary terms you should know:
+ </description>
+    </item>
+    
+    <item>
+      <title>A Bulleted Review of James Gleick’s The Information</title>
+      <link>https://example.com/2011/a-bulleted-review-of-james-gleicks-the-information/</link>
+      <pubDate>Sat, 14 May 2011 21:39:46 +0000</pubDate>
+      
+      <guid>https://example.com/2011/a-bulleted-review-of-james-gleicks-the-information/</guid>
+      <description>Aristotelians used motion to describe a whole range of actions, from peaches ripening and a stone falling to a child growing and a body decaying. p. 7 “Economics is reorganizing itself as an information science” p. 9 The Gospel of Mark begins, “In the beginning was the Word, and the Word was with God, and the Word was God.” As another web site notes, “The word for “word” here is “logos”, the Greek word for the indwelling logic, or rational order of things.</description>
+    </item>
+    
+    <item>
+      <title>Claude Shannon is Cute</title>
+      <link>https://example.com/2011/claude-shannon-is-cute/</link>
+      <pubDate>Sat, 14 May 2011 20:48:56 +0000</pubDate>
+      
+      <guid>https://example.com/2011/claude-shannon-is-cute/</guid>
+      <description>Claude Shannon in A Mathematical Theory of Communication:
+ The fundamental problem of communication is that of reproduction at one point either exactly or approximately a message selected at another point. Frequently the messages have meaning; that is, they refer to or are correlated according to some system with certain physical or conceptual entities. These semantic aspects of communication are irrelevant to the engineering problem. The significant aspect is that the actual message is one selected from a set of possible messages.</description>
+    </item>
+    
+    <item>
+      <title>Politics is Institutionalized Government</title>
+      <link>https://example.com/2011/politics-is-institutionalized-government/</link>
+      <pubDate>Fri, 13 May 2011 00:47:53 +0000</pubDate>
+      
+      <guid>https://example.com/2011/politics-is-institutionalized-government/</guid>
+      <description>At an e-government conference today, one of the speakers said
+ Government’s biggest obstacle is politics.
+ No. Politics is institutionalized through governments. Or, politics is institutionalized government. It is not exogenous to the process, it is constituent of it.</description>
+    </item>
+    
+    <item>
+      <title>The Metaphors of Common(ers)</title>
+      <link>https://example.com/2011/the-metaphors-of-commoners/</link>
+      <pubDate>Fri, 13 May 2011 00:40:52 +0000</pubDate>
+      
+      <guid>https://example.com/2011/the-metaphors-of-commoners/</guid>
+      <description>I have been following a bit of this Common controversy and it just hit me that white people do not understand rap music can be metaphorical. I was think of the opposite side of this. Even if Common was making “cop killing” and incendiary remarks against Bush, that does not mean that he was going to do it. It is an allegory. Just because you kill someone in a lyric or a play or a movie, that does not mean that you hate them.</description>
+    </item>
+    
+    <item>
+      <title>English by the Numbers</title>
+      <link>https://example.com/2011/english-by-the-numbers/</link>
+      <pubDate>Tue, 10 May 2011 19:59:27 +0000</pubDate>
+      
+      <guid>https://example.com/2011/english-by-the-numbers/</guid>
+      <description>An oldie but a goodie:
+ The first surprise, says Pinker, is that books contain “a huge amount of lexical dark matter.” Even after excluding proper nouns, more than 50% of the words in the n-gram database do not appear in any published dictionary. Widely used words such as “deletable” and obscure ones like “slenthem” (a type of musical instrument) slipped below the radar of standard references. By the research team’s estimate, the size of the English language has nearly doubled over the past century, to more than 1 million words.</description>
+    </item>
+    
+    <item>
+      <title>Subtraction not Addition</title>
+      <link>https://example.com/2011/subtraction-not-addition/</link>
+      <pubDate>Mon, 09 May 2011 19:56:36 +0000</pubDate>
+      
+      <guid>https://example.com/2011/subtraction-not-addition/</guid>
+      <description>From Ben Atlas:
+ People think knowledge is an addition rather than a subtraction. People think you heal yourself by an addition (drugs, workouts, amulets, superstitions) rather than subtraction of toxic foods, toxic ideas, toxic friends plus an addition of a good night sleep.
+ </description>
+    </item>
+    
+    <item>
+      <title>Observances</title>
+      <link>https://example.com/2011/observances/</link>
+      <pubDate>Thu, 28 Apr 2011 22:13:37 +0000</pubDate>
+      
+      <guid>https://example.com/2011/observances/</guid>
+      <description>We do not desire money. We desire prestige/wealth. Money is just a sign. The Rawlsian original position is a game theoretical situation. As such, it doesn’t represent reality. Responsibility finds its first use in the late 1700s, at the beginning of modern “capitalism.” Before this, we were bound by duty. Duty and responsibility are not the same thing. The rise of capitalism meant the end of debtor prison. The contradiction between the virtues of the micocasm and the order of the macrocasm is the essence of tragedy.</description>
+    </item>
+    
+    <item>
+      <title>Adam Smith On Language</title>
+      <link>https://example.com/2011/adam-smith-on-language/</link>
+      <pubDate>Wed, 20 Apr 2011 20:53:38 +0000</pubDate>
+      
+      <guid>https://example.com/2011/adam-smith-on-language/</guid>
+      <description>The Blessed Adam Smith:
+ Nobody ever saw a dog make a fair and deliberate exchange of one bone for another with another dog. Nobody ever saw one animal by its gestures and natural cries signify to another, this is mine, that yours; I am willing to give this for that. When an animal wants to obtain something either of a man or of another animal, it has no other means of persuasion but to gain the favour of those whose service it requires.</description>
+    </item>
+    
+    <item>
+      <title>It is a False Dichotomy, or, Why I Hate the Word Or</title>
+      <link>https://example.com/2011/why-i-hate-the-word-or/</link>
+      <pubDate>Sat, 16 Apr 2011 17:34:54 +0000</pubDate>
+      
+      <guid>https://example.com/2011/why-i-hate-the-word-or/</guid>
+      <description>I am a big fan Alex Howard, but this kind of headline really irks me: “Are the Internet and Social Media ‘Tools of Freedom’ or ‘Tools of Oppression?” As the article goes on to say, “The short answer is that these technologies can be both.” I am sorry but that is both the short answer and the long answer.
+Let’s be a little more intelligent about this discussion. The first paragraph colors the entire argument.</description>
+    </item>
+    
+    <item>
+      <title>Some Research About the Net</title>
+      <link>https://example.com/2011/some-research-about-the-net/</link>
+      <pubDate>Sat, 16 Apr 2011 17:00:43 +0000</pubDate>
+      
+      <guid>https://example.com/2011/some-research-about-the-net/</guid>
+      <description>Who Says What to Whom on Twitter
+ We study several longstanding questions in media communications research, in the context of the microblogging service Twitter, regarding the production, flow, and consumption of information. To do so, we exploit a recently introduced feature of Twitter—known as Twitter lists—to distinguish between elite users, by which we mean specifically celebrities, bloggers, and representatives of media outlets and other formal organizations, and ordinary users. Based on this classification, we find a striking concentration of attention on Twitter—roughly 50% of tweets consumed are generated by just 20K elite users—where the media produces the most information, but celebrities are the most followed.</description>
+    </item>
+    
+    <item>
+      <title>The Canon of Media Studies</title>
+      <link>https://example.com/2011/the-canon-of-media-studies/</link>
+      <pubDate>Fri, 08 Apr 2011 04:03:59 +0000</pubDate>
+      
+      <guid>https://example.com/2011/the-canon-of-media-studies/</guid>
+      <description>As I put this list together, this post will be populated.
+Media Ecology Marshall McLuhan – The Gutenburg Galaxy
+Marshall McLuhan – Understanding Media
+Harold Innis – The Bis of Communication
+Walter Ong – Orality and Literacy
+Lewis Mumford – Myth of the Machine Vol 1 – Technics and Human Development
+Lewis Mumford – Myth of the Machine Vol 2 – Pentagon of Power
+Eric Havelock – Preference to Plato</description>
+    </item>
+    
+    <item>
+      <title>A Quote from Frank Lloyd Wright</title>
+      <link>https://example.com/2011/a-quote-from-frank-lloyd-wright/</link>
+      <pubDate>Wed, 06 Apr 2011 20:41:28 +0000</pubDate>
+      
+      <guid>https://example.com/2011/a-quote-from-frank-lloyd-wright/</guid>
+      <description>A free America… means just this: individual freedom for all, rich or poor, or else this system of government we call democracy is only an expedient to enslave man to the machine and make him like it.
+ Let’s not forget that he also designed this:</description>
+    </item>
+    
+    <item>
+      <title>Mercantilism is Dead, Long Live Mercantilism!</title>
+      <link>https://example.com/2011/mercantilism-is-dead-long-live-mercantilism/</link>
+      <pubDate>Tue, 05 Apr 2011 22:27:35 +0000</pubDate>
+      
+      <guid>https://example.com/2011/mercantilism-is-dead-long-live-mercantilism/</guid>
+      <description>Here is the hook for this Econlib feature article
+ Many Americans may not realize that some of today’s political leaders and mainstream media espouse ideas that were discredited and left for dead over two hundred years ago. As in any number of horror flicks, sometimes the dead don’t stay that way.
+ You cannot deny the power of power.</description>
+    </item>
+    
+    <item>
+      <title>Regulation of Newspapers in the 18th Century</title>
+      <link>https://example.com/2011/regulation-of-newspapers-in-the-18th-century/</link>
+      <pubDate>Tue, 05 Apr 2011 19:16:55 +0000</pubDate>
+      
+      <guid>https://example.com/2011/regulation-of-newspapers-in-the-18th-century/</guid>
+      <description>Paul Starr again:
+ Throughout the century, the absence of regulatory obstacles to newspapers contributed to their growth. No guild regulations limited entry into printing and the Stamp Act of 1712 did not apply to the colonies.
+ and
+ Throughout most of the colonial era, however, there was no system of partisan politics to support partisan journalism. And with only a limited local demand for their services, printers typically maximized their potential clients and advertisers by not taking sides in local controversies… Printers avoided offending the powerful by keeping divisive issues entirely out of their newspapers, stifling debate rather than promoting it.</description>
+    </item>
+    
+    <item>
+      <title>April is the Cruellest Month</title>
+      <link>https://example.com/2011/april-is-the-cruellest-month/</link>
+      <pubDate>Tue, 05 Apr 2011 04:29:28 +0000</pubDate>
+      
+      <guid>https://example.com/2011/april-is-the-cruellest-month/</guid>
+      <description>April is the cruellest month, breeding
+Lilacs out of the dead land, mixing
+Memory and desire, stirring
+Dull roots with spring rain.
+Winter kept us warm, covering
+Earth in forgetful snow, feeding
+A little life with dried tubers.
+ &amp;lt;td align=&amp;quot;right&amp;quot; valign=&amp;quot;top&amp;quot;&amp;gt; &amp;lt;span&amp;gt;&amp;lt;a name=&amp;quot;1&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt; Lilacs out of the dead land, mixing &amp;lt;/td&amp;gt; &amp;lt;td align=&amp;quot;right&amp;quot; valign=&amp;quot;top&amp;quot;&amp;gt; &amp;lt;span&amp;gt;&amp;lt;a name=&amp;quot;2&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt; Memory and desire, stirring &amp;lt;/td&amp;gt; &amp;lt;td align=&amp;quot;right&amp;quot; valign=&amp;quot;top&amp;quot;&amp;gt; &amp;lt;span&amp;gt;&amp;lt;a name=&amp;quot;3&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt; Dull roots with spring rain.</description>
+    </item>
+    
+    <item>
+      <title>Aphorism</title>
+      <link>https://example.com/2011/aphorism/</link>
+      <pubDate>Tue, 05 Apr 2011 04:26:15 +0000</pubDate>
+      
+      <guid>https://example.com/2011/aphorism/</guid>
+      <description>The purpose of the economy is production not employment.
+ Also, Art is long, life is short, opportunity fleeting, experiment dangerous, judgment difficult.  </description>
+    </item>
+    
+    <item>
+      <title>The Century of the Broken Contract</title>
+      <link>https://example.com/2011/the-century-of-the-broken-contract/</link>
+      <pubDate>Tue, 05 Apr 2011 04:17:25 +0000</pubDate>
+      
+      <guid>https://example.com/2011/the-century-of-the-broken-contract/</guid>
+      <description>HT to Deirdre McCloskey regarding the last point:
+In reading Ostrom on game theory, a curious thing popped up. Communication negates a decent amount of experimental work. Communication allows for ethics, reciprocity and especially shame to buttress the bargaining situation, changing it indelibly. Once you allow prisoners to talk, they are going to find the best outcome. Some other problems also arise when considering game theory.
+First, there is the obvious issue of bargaining.</description>
+    </item>
+    
+    <item>
+      <title>Nothing Too Much, Not Even Righteousness</title>
+      <link>https://example.com/2011/nothing-too-much/</link>
+      <pubDate>Mon, 04 Apr 2011 03:36:44 +0000</pubDate>
+      
+      <guid>https://example.com/2011/nothing-too-much/</guid>
+      <description>From FL Lucas’ book aptly titled Tragedy
+ There, face to face, stand arrayed the opposite ideals – Apollo and Dionysus, the god of Dorian discipline and the god of the license of the wild. Yet both are Greek both lay claim to wisdom: and instead of burning the votaries of Dionysus at the stake, when we came storming on a wave of enthusiasm from the fastnesses of Thrace, the priests of Apollo gave his untamed younger brother, the son likewise of Zeus, a share in Apollo’s temple beneath the twin crags of Delphi.</description>
+    </item>
+    
+    <item>
+      <title>Tech Policy as a Space</title>
+      <link>https://example.com/2011/tech-policy-as-a-space/</link>
+      <pubDate>Sat, 02 Apr 2011 18:19:01 +0000</pubDate>
+      
+      <guid>https://example.com/2011/tech-policy-as-a-space/</guid>
+      <description>A recent podcast with Alex Howard, Tim Karr and Christopher Preble at the Cato Institute has got me thinking about the way technology is conceptualized in tech policy circles. First off and I mean no offense to the parties involved, but there is a dearth of knowledge about media history. I am not saying that these policy analysts do not know contemporary telecom policy; in fact, I am in awe of their knowledge of the 1920s onward.</description>
+    </item>
+    
+    <item>
+      <title>Chaos/Order</title>
+      <link>https://example.com/2011/chaosorder/</link>
+      <pubDate>Sat, 02 Apr 2011 05:32:02 +0000</pubDate>
+      
+      <guid>https://example.com/2011/chaosorder/</guid>
+      <description>The remnants from the Enlightenment project sill impose a constraint on our thinking. Two of the core tenants that we have inherited are that
+ there is an order/harmony, and it precedes our existence in it  This continues to be one of the defining features of Western thought. Campbell, in his glorious contribution to this side of criticism, made note of the difference between the East and the West in this regard.</description>
+    </item>
+    
+    <item>
+      <title>One Small Problem With Economics</title>
+      <link>https://example.com/2011/one-small-problem-with-economics/</link>
+      <pubDate>Sat, 02 Apr 2011 05:11:54 +0000</pubDate>
+      
+      <guid>https://example.com/2011/one-small-problem-with-economics/</guid>
+      <description>Early last week, as I was preparing for a course in international political economy (IPE), I read an introductory article on the subject by Robert Gilpin. Aimed at the novice, it described the discipline by explaining how it is organized. To the political economist, information, interests and institutions are of central concern. And yet, just a few sentences previous, it was noted that the scientific method is the approach to IPE.</description>
+    </item>
+    
+    <item>
+      <title>The Demand for Profits</title>
+      <link>https://example.com/2011/the-demand-for-profits/</link>
+      <pubDate>Sat, 26 Mar 2011 16:05:12 +0000</pubDate>
+      
+      <guid>https://example.com/2011/the-demand-for-profits/</guid>
+      <description>At least since the 1400s, it has been there:
+ One fact must not be lost sight of: the printer and the bookseller worked above all and from the beginning for profit
+ From “The Coming of the Book: The Impact of Printing 1450-1800“</description>
+    </item>
+    
+    <item>
+      <title>Verizon is Making A Mistake</title>
+      <link>https://example.com/2011/verizon-is-making-a-mistake/</link>
+      <pubDate>Sat, 19 Mar 2011 02:07:10 +0000</pubDate>
+      
+      <guid>https://example.com/2011/verizon-is-making-a-mistake/</guid>
+      <description>According to Minyanville, Verizon might be giving us a glimpse of the future for its relationship with Google.
+ </description>
+    </item>
+    
+    <item>
+      <title>Creative AD-dition</title>
+      <link>https://example.com/2011/creative-ad-dition/</link>
+      <pubDate>Sat, 19 Mar 2011 02:01:48 +0000</pubDate>
+      
+      <guid>https://example.com/2011/creative-ad-dition/</guid>
+      <description>The next couple of years are going to be very interesting for the advertising industry. Even in the sector that I work in, digital marketing, is undergoing constant and massive change. Thats why I am interested in this
+ We shall see where it takes us.</description>
+    </item>
+    
+    <item>
+      <title>Craigslist is a Mess</title>
+      <link>https://example.com/2011/craigslist-is-a-mess/</link>
+      <pubDate>Fri, 25 Feb 2011 19:19:43 +0000</pubDate>
+      
+      <guid>https://example.com/2011/craigslist-is-a-mess/</guid>
+      <description>Classifieds site Craigslist has been linked with 330 crimes, 12 murders and 105 robberies or assaults in the United States last year due to anonymous interactions on the site, says a new study.
+ Even if this weren’t a story paid for by a competitor, which Mike Masnick explains is indeed the case, Craiglist, as a community is still a better place than most. That’s a little bit of an understatement, actually.</description>
+    </item>
+    
+    <item>
+      <title>Oh That Looks Shiny!</title>
+      <link>https://example.com/2010/oh-that-looks-shiny/</link>
+      <pubDate>Fri, 10 Sep 2010 21:40:14 +0000</pubDate>
+      
+      <guid>https://example.com/2010/oh-that-looks-shiny/</guid>
+      <description>There is no end to my respect of Apple. They are flawless marketers and companies the world over should take note, if they haven’t already. A recent article in BusinessWeek illustrates this nicely. This quote is long and bulky but worth it:</description>
+    </item>
+    
+    <item>
+      <title>Living in the Un-Sane Asylum: David Brooks Edition</title>
+      <link>https://example.com/2010/living-in-the-un-sane-asylum-david-brooks-edition/</link>
+      <pubDate>Wed, 25 Aug 2010 04:01:44 +0000</pubDate>
+      
+      <guid>https://example.com/2010/living-in-the-un-sane-asylum-david-brooks-edition/</guid>
+      <description>The older I get, which isn’t really a high number at this point, the more I think I’m living in an insane asylum. So, in a new series called Living in the Un-Sane Asylum (U.S.A.) I am going to be bring attention to those people who seem to have a grip on some sort of sanity in this world. Here is the first of the posts:
+I do appreciate Brooks for bringing up this point, but personally his column leaves me wanting more.</description>
+    </item>
+    
+    <item>
+      <title>Free Press is protesting Google</title>
+      <link>https://example.com/2010/free-press-is-protesting-google/</link>
+      <pubDate>Fri, 13 Aug 2010 07:31:00 +0000</pubDate>
+      
+      <guid>https://example.com/2010/free-press-is-protesting-google/</guid>
+      <description>Yes, it is true. Free Press is protesting Google today at Mountain View.
+Personally, I think Google’s stance on net neutrality was foolish to begin with.</description>
+    </item>
+    
+    <item>
+      <title>Now I’m confident we won’t have another economic downturn</title>
+      <link>https://example.com/2010/now-im-confident-we-wont-have-another-economic-downturn/</link>
+      <pubDate>Sun, 01 Aug 2010 13:31:00 +0000</pubDate>
+      
+      <guid>https://example.com/2010/now-im-confident-we-wont-have-another-economic-downturn/</guid>
+      <description>Dunstan Prial of Fox Business Network writes that the Securities and Exchange Commission is now exempt from public requests for information, including Freedom of Information Requests, as part of the financial regulation overhaul.
+ Here is the link</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Will Rinehart"
+theme = "cactus"
+copyright = "Will Rinehart | economist, speaker, and analyst of tech policy" # cactus will use title if copyright is not set
+disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
+# googleAnalytics = "UA-1234-5"
+paginate = 100
+
+
+# summaryLength = 2
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Publications"
+url = "/publications"
+weight = 3
+
+[[menu.main]]
+name = "Media"
+url = "/media"
+weight = 4
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 5
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 5
+    ordered = false
+    startLevel = 2
+
+[params]
+
+  colortheme = "white" # dark, light, white, or classic
+  rss = true # generate rss feed. default value is false
+  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
+
+  # Home page settings
+  description = "My name is William Rinehart, but you can call me Will. Currently, I’m a Senior Research Fellow at the Center for Growth and Opportunity (CGO) at Utah State. Previously, I was the Director of Technology and Innovation Policy at the American Action Forum. In my day to day job, I specialize on the public policy of telecommunication, the Internet, platform companies, and AI, with a focus on emerging technologies and innovation. Fundamentally, I am interested in expanding human flourishing, reforming government to make it efficient, and learning."
+  mainSection = "posts" # your main section
+  showAllPostsOnHomePage = false # default
+  postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
+  tagsOverview = false # show tags overview by default.
+  showProjectsList = false # show projects list by default (if projects data file exists).
+  projectsUrl = "https://github.com/gohugoio" # title link for projects list
+  mathjax = true 
+
+  # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+  dateFormat = "2006-01-02" # default
+
+  # Post page settings
+  show_updated = false # default
+
+  [params.comments]
+    enabled = false # default
+    engine = "disqus" # more supported engines will be added.
+
+  # the value of name should be an valid font awesome icon name (brands type)
+  # https://fontawesome.com/icons?d=gallery&s=brands
+  [[params.social]]
+    name = "twitter"
+    link = "https://twitter.com/willrinehart"
+  [[params.social]]
+    name = "linkedin"
+    link = "http://www.linkedin.com/in/williamrinehart"
+  [[params.social]]
+    name = "email"
+    link = "example@example.com"  # no need for "mailto:" in the head

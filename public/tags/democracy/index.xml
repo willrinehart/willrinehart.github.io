@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>democracy on Will Rinehart</title>
+    <link>https://example.com/tags/democracy/</link>
+    <description>Recent content in democracy on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Tue, 26 Feb 2019 14:54:15 +0000</lastBuildDate><atom:link href="https://example.com/tags/democracy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Esoteric Reading of LM Sacasas</title>
+      <link>https://example.com/2019/an-esoteric-reading-of-lm-sacasas/</link>
+      <pubDate>Tue, 26 Feb 2019 14:54:15 +0000</pubDate>
+      
+      <guid>https://example.com/2019/an-esoteric-reading-of-lm-sacasas/</guid>
+      <description>After reading LM Sacasas’ recent piece on moral communities, I couldn’t help but wonder if the piece was written in the esoteric mode.
+Let me explain by some meandering.
+Now, I am surely going to butcher his argument, so take a read of it yourself, but there is a bit of an interesting call and response structure to the piece. He begins with commentary on “frequent deployment of the rhetorical we,” in discussions over the morality of technology.</description>
+    </item>
+    
+  </channel>
+</rss>

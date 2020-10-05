@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>taxes on Will Rinehart</title>
+    <link>https://example.com/tags/taxes/</link>
+    <description>Recent content in taxes on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Fri, 14 Dec 2012 21:44:54 +0000</lastBuildDate><atom:link href="https://example.com/tags/taxes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon &amp; Their Taxes</title>
+      <link>https://example.com/2012/amazon-their-taxes/</link>
+      <pubDate>Fri, 14 Dec 2012 21:44:54 +0000</pubDate>
+      
+      <guid>https://example.com/2012/amazon-their-taxes/</guid>
+      <description>Reuters is reporting on the history and legal problems of Amazon’s taxes. Apparently, last year the IRS demanded $1.5 billion in back-taxes from “transfer pricing [of their] our foreign subsidiaries,” amounting to just under a tenth of their gross annual profit.
+The article doesn’t take much knowledge of tax law to understand, but for the tl:dr crowd, here is the gist:
+In 1999, Amazon began to bring foreign profits home from their French and British operations to balance the losses in the US, which at the time amounted to over $1 billion.</description>
+    </item>
+    
+  </channel>
+</rss>

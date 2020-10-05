@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>advertising on Will Rinehart</title>
+    <link>https://example.com/tags/advertising/</link>
+    <description>Recent content in advertising on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Mon, 19 Aug 2019 12:48:12 +0000</lastBuildDate><atom:link href="https://example.com/tags/advertising/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An exploration of the limits of advertising byway of a brief review of the effects literature</title>
+      <link>https://example.com/2019/advertising-uneasy-persuasion-or-means-of-social-engineering/</link>
+      <pubDate>Mon, 19 Aug 2019 12:48:12 +0000</pubDate>
+      
+      <guid>https://example.com/2019/advertising-uneasy-persuasion-or-means-of-social-engineering/</guid>
+      <description>[DRAFT: Monday, August 19, 2019]
+The Domain Of The Critique
+If you follow the major tech publications, you would think that the advertising of today is a powerful new weapon that desperately needs to be reigned in.
+NYT technology reporter Natasha Singer laid it out, “What is at stake here isn’t privacy, the right not to be observed. It’s how companies can use our data to invisibly shunt us in directions that may benefit them more than us.</description>
+    </item>
+    
+  </channel>
+</rss>

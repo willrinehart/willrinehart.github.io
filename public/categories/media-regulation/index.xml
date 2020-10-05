@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media Regulation on Will Rinehart</title>
+    <link>https://example.com/categories/media-regulation/</link>
+    <description>Recent content in Media Regulation on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Fri, 08 Aug 2014 18:21:31 +0000</lastBuildDate><atom:link href="https://example.com/categories/media-regulation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is STELA the Vehicle for Video Reform?</title>
+      <link>https://example.com/2014/is-stela-the-vehicle-for-video-reform/</link>
+      <pubDate>Fri, 08 Aug 2014 18:21:31 +0000</pubDate>
+      
+      <guid>https://example.com/2014/is-stela-the-vehicle-for-video-reform/</guid>
+      <description>&lt;p&gt;Even though few things are getting passed this Congress, the pressure is on to reauthorize the Satellite Television Extension and Localism Act (STELA) before it expires at the end of this year. Unsurprisingly, many have hoped this “must pass bill” will be the vehicle for broader reform of video. Getting video law right is important for our content rich world, but the discussion needs to expand much further than STELA.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

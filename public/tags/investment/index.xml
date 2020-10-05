@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>investment on Will Rinehart</title>
+    <link>https://example.com/tags/investment/</link>
+    <description>Recent content in investment on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Wed, 11 Jan 2012 21:29:56 +0000</lastBuildDate><atom:link href="https://example.com/tags/investment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Competitive Industries and the Telecom Sector</title>
+      <link>https://example.com/2012/competitive-industries-and-the-telecom-sector/</link>
+      <pubDate>Wed, 11 Jan 2012 21:29:56 +0000</pubDate>
+      
+      <guid>https://example.com/2012/competitive-industries-and-the-telecom-sector/</guid>
+      <description>The classical definition of competitive price are those where price equal cost. The thought being, if a producer pushes their price above this line, they will not be able to capture customers, and if they lower their prices, they will not be able to cover their cost. We often think of cost as the money one spend to produce an item, but it includes more; there is there also the cost of managing the firm, and importantly it includes the minimum level of profit the firm must return to be attractive to investors and thus have capital inflows.</description>
+    </item>
+    
+  </channel>
+</rss>

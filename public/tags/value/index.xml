@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>value on Will Rinehart</title>
+    <link>https://example.com/tags/value/</link>
+    <description>Recent content in value on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Mon, 23 Sep 2019 21:34:33 +0000</lastBuildDate><atom:link href="https://example.com/tags/value/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Do You Value Data? A Reply To Jaron Lanier’s Op-Ed In The NYT</title>
+      <link>https://example.com/2019/how-do-you-value-data-a-reply-to-jaron-laniers-op-ed-in-the-nyt/</link>
+      <pubDate>Mon, 23 Sep 2019 21:34:33 +0000</pubDate>
+      
+      <guid>https://example.com/2019/how-do-you-value-data-a-reply-to-jaron-laniers-op-ed-in-the-nyt/</guid>
+      <description>Jaron Lanier was featured in a recent New York Times op-ed explaining why people should get paid for their data. Under this scheme, he estimates the total value of data for a four person household could fetch around $20,000.
+Let’s do the math on that.
+Data from eMarketer finds that users spend about an hour and fifteen minutes per day on social media for a total of 456.25 hours per year.</description>
+    </item>
+    
+  </channel>
+</rss>

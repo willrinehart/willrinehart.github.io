@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News &amp;amp; Journalism on Will Rinehart</title>
+    <link>https://example.com/categories/news-amp-journalism/</link>
+    <description>Recent content in News &amp;amp; Journalism on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Fri, 02 Aug 2019 14:32:04 +0000</lastBuildDate><atom:link href="https://example.com/categories/news-amp-journalism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Ancien Regime of Newspapers</title>
+      <link>https://example.com/2019/the-ancien-regime-of-newspapers/</link>
+      <pubDate>Fri, 02 Aug 2019 14:32:04 +0000</pubDate>
+      
+      <guid>https://example.com/2019/the-ancien-regime-of-newspapers/</guid>
+      <description>The newspaper business has become far more competitive in recent years, but not too long ago, most newspapers were flush with cash:
+There is a lot more to the Atlantic piece, which you should check out, but the discussion reminds me of a Larry Downes’ piece from some time back on innovation, or lack thereof, at newspapers. As he says,
+Of course there is variability in the marketplace, but it does seem like many newspapers had few problems keeping payroll in the period before the Internet.</description>
+    </item>
+    
+    <item>
+      <title>Demand Led Growth in Social Media</title>
+      <link>https://example.com/2015/demand-led-growth-in-social-media/</link>
+      <pubDate>Mon, 06 Apr 2015 19:48:49 +0000</pubDate>
+      
+      <guid>https://example.com/2015/demand-led-growth-in-social-media/</guid>
+      <description>One part of this intriguing interview with the creator of the Medieval Reactions Twitter account really caught my eye:
+Demand led content growth is a scary new world for content creators, one that really makes the old guard feel uneasy.</description>
+    </item>
+    
+    <item>
+      <title>Micropayments, The News, &amp; Friction Free Browsing</title>
+      <link>https://example.com/2015/micropayments-news-friction-free-browsing/</link>
+      <pubDate>Fri, 09 Jan 2015 19:33:20 +0000</pubDate>
+      
+      <guid>https://example.com/2015/micropayments-news-friction-free-browsing/</guid>
+      <description>Earlier this week I heard Walter Isaacson delve into his new book, “The Innovators,” at the American Enterprise Institute. In discussion, he lamented the development of the various business models in online journalism, and content generally, arguing forcefully for micropayments in their place. In a LinkedIn article on the same subject, he explains:
+Even though I am not in the prediction business, I am highly skeptical that micropayments will become widespread for a number of reasons, none of which are particularly new.</description>
+    </item>
+    
+  </channel>
+</rss>

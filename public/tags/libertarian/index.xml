@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>libertarian on Will Rinehart</title>
+    <link>https://example.com/tags/libertarian/</link>
+    <description>Recent content in libertarian on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Mon, 12 Nov 2012 17:08:48 +0000</lastBuildDate><atom:link href="https://example.com/tags/libertarian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Gulf Between Libertarians and Other Social Theorists</title>
+      <link>https://example.com/2012/the-gulf-between-libertarians-and-other-social-theorists/</link>
+      <pubDate>Mon, 12 Nov 2012 17:08:48 +0000</pubDate>
+      
+      <guid>https://example.com/2012/the-gulf-between-libertarians-and-other-social-theorists/</guid>
+      <description>I don’t know why I have never considered it before, but Ross Kenyon is correct:
+Methodologically, libertarians and Austrians see the world largely as aggregated individuals, compared to other social theorists who mainly consider the world through group level dynamics.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>captology on Will Rinehart</title>
+    <link>https://example.com/tags/captology/</link>
+    <description>Recent content in captology on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Mon, 19 Aug 2019 12:48:12 +0000</lastBuildDate><atom:link href="https://example.com/tags/captology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An exploration of the limits of advertising byway of a brief review of the effects literature</title>
+      <link>https://example.com/2019/advertising-uneasy-persuasion-or-means-of-social-engineering/</link>
+      <pubDate>Mon, 19 Aug 2019 12:48:12 +0000</pubDate>
+      
+      <guid>https://example.com/2019/advertising-uneasy-persuasion-or-means-of-social-engineering/</guid>
+      <description>[DRAFT: Monday, August 19, 2019]
+The Domain Of The Critique
+If you follow the major tech publications, you would think that the advertising of today is a powerful new weapon that desperately needs to be reigned in.
+NYT technology reporter Natasha Singer laid it out, “What is at stake here isn’t privacy, the right not to be observed. It’s how companies can use our data to invisibly shunt us in directions that may benefit them more than us.</description>
+    </item>
+    
+    <item>
+      <title>Studies Exploring GPS Adoption</title>
+      <link>https://example.com/2019/studies-exploring-gps-adoption/</link>
+      <pubDate>Fri, 09 Aug 2019 13:49:48 +0000</pubDate>
+      
+      <guid>https://example.com/2019/studies-exploring-gps-adoption/</guid>
+      <description>I’m a couple of chapters into reading Re-Engineering Humanity from Brett Frischmann and Evan Selinger, which includes a discussion of the effects of GPS. So, I thought I would take a look at the literature. “Results showed that GPS users traveled longer distances and made more stops during the walk than map users and direct-experience participants. Also, GPS users traveled more slowly, made larger direction errors, drew sketch maps with poorer topological accuracy, and rated wayfinding tasks as more difficult than direct-experience participants.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tesla on Will Rinehart</title>
+    <link>https://example.com/tags/tesla/</link>
+    <description>Recent content in tesla on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Mon, 08 Jul 2019 20:19:33 +0000</lastBuildDate><atom:link href="https://example.com/tags/tesla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>There are good reasons to be skeptical that automation will unravel the labor market</title>
+      <link>https://example.com/2019/there-are-good-reasons-to-be-skeptical-that-automation-will-unravel-the-labor-market/</link>
+      <pubDate>Mon, 08 Jul 2019 20:19:33 +0000</pubDate>
+      
+      <guid>https://example.com/2019/there-are-good-reasons-to-be-skeptical-that-automation-will-unravel-the-labor-market/</guid>
+      <description>When it comes to the threat of automation, I agree with Ryan Khurana: “From self-driving car crashes to failed workplace algorithms, many AI tools fail to perform simple tasks humans excel at, let alone far surpass us in every way.” Like myself, he is skeptical that automation will unravel the labor market, pointing out that “[The] conflation of what AI ‘may one day do’ with the much more mundane ‘what software can do today’ creates a powerful narrative around automation that accepts no refutation.</description>
+    </item>
+    
+  </channel>
+</rss>

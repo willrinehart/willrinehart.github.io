@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Will Rinehart</title>
+    <link>https://example.com/categories/music/</link>
+    <description>Recent content in Music on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Wed, 22 Apr 2015 13:02:32 +0000</lastBuildDate><atom:link href="https://example.com/categories/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Much Is Music Worth?</title>
+      <link>https://example.com/2015/how-much-is-music-worth/</link>
+      <pubDate>Wed, 22 Apr 2015 13:02:32 +0000</pubDate>
+      
+      <guid>https://example.com/2015/how-much-is-music-worth/</guid>
+      <description>Pitchfork has a great article on the consumer prices of music over the last century. Some interesting bits:</description>
+    </item>
+    
+    <item>
+      <title>Changing Tastes in the Top 40 &amp; Some Economics of Music</title>
+      <link>https://example.com/2015/changing-tastes-top-40-media-economics/</link>
+      <pubDate>Fri, 23 Jan 2015 15:53:49 +0000</pubDate>
+      
+      <guid>https://example.com/2015/changing-tastes-top-40-media-economics/</guid>
+      <description>A back and forth has popped up about the Top 40. It began with Libby Jacobson comparing a Top 40 list from 1996 and today. As she points out, even though only Alanis Morissette was the only one to have two songs in the Top 40, today the Top 40 shows much less variety:
+Ultimately, Jacobson concludes that “pop music is converging both in terms of style/sound and in terms of the talent &amp;amp; personalities producing it.</description>
+    </item>
+    
+  </channel>
+</rss>

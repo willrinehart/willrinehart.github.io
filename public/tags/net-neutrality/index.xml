@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>net neutrality on Will Rinehart</title>
+    <link>https://example.com/tags/net-neutrality/</link>
+    <description>Recent content in net neutrality on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Thu, 11 Jun 2020 14:43:55 +0000</lastBuildDate><atom:link href="https://example.com/tags/net-neutrality/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two years on, it is clear that the network neutrality fight was meta-miserable</title>
+      <link>https://example.com/2020/two-years-on-it-is-clear-that-the-network-neutrality-fight-was-meta-miserable/</link>
+      <pubDate>Thu, 11 Jun 2020 14:43:55 +0000</pubDate>
+      
+      <guid>https://example.com/2020/two-years-on-it-is-clear-that-the-network-neutrality-fight-was-meta-miserable/</guid>
+      <description>Eric Weinstein’s recent conversation with Balaji Srinivasan reminded me of today’s auspicious anniversary. On this date, two years ago, the Restoring Internet Freedom Order took effect, effectively ending the Open Internet Order from the Obama Era.
+Looking back, I can confidently say that the policy discussion surrounding network neutrality failed meta-miserably. Us policy wonks need to do better and a good first step would be the embrace of prediction tournaments and policy bets.</description>
+    </item>
+    
+    <item>
+      <title>What’s The FCC’s Rush on New Net Neutrality Rules?</title>
+      <link>https://example.com/2015/whats-fccs-rush-new-net-neutrality-rules/</link>
+      <pubDate>Sun, 04 Jan 2015 21:40:19 +0000</pubDate>
+      
+      <guid>https://example.com/2015/whats-fccs-rush-new-net-neutrality-rules/</guid>
+      <description>Network neutrality rules have failed to pass Congress and the courts countless times, so what’s the FCC’s rush now? Scott Cleland explores in an op-ed at the Daily Caller:</description>
+    </item>
+    
+  </channel>
+</rss>

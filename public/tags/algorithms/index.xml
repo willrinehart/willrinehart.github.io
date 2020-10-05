@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>algorithms on Will Rinehart</title>
+    <link>https://example.com/tags/algorithms/</link>
+    <description>Recent content in algorithms on Will Rinehart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Will Rinehart | economist, speaker, and analyst of tech policy</copyright>
+    <lastBuildDate>Wed, 07 Nov 2018 17:01:28 +0000</lastBuildDate><atom:link href="https://example.com/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Review: Cathy O’Neil’s &#34;Weapons of Math Destruction&#34;</title>
+      <link>https://example.com/2018/book-review-cathy-oneils-weapons-of-math-destruction/</link>
+      <pubDate>Wed, 07 Nov 2018 17:01:28 +0000</pubDate>
+      
+      <guid>https://example.com/2018/book-review-cathy-oneils-weapons-of-math-destruction/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;To read Cathy O’Neil’s &lt;!-- raw HTML omitted --&gt;&lt;em&gt;&lt;!-- raw HTML omitted --&gt;Weapons of Math Destruction &lt;!-- raw HTML omitted --&gt;&lt;/em&gt;&lt;!-- raw HTML omitted --&gt;(2016) is to experience another in a line of progressive pugilists of the technological age. Where Tim Wu took on &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://www.amazon.com/Future-Internet-How-Stop/dp/0300151241&#34;&gt;&lt;!-- raw HTML omitted --&gt;the future of the Internet&lt;!-- raw HTML omitted --&gt;&lt;/a&gt; &lt;!-- raw HTML omitted --&gt;and Evgeny Morozov &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://www.amazon.com/Net-Delusion-Dark-Internet-Freedom/dp/1610391063&#34;&gt;&lt;!-- raw HTML omitted --&gt;chided online slactivism&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;, O’Neil takes on algorithms, or what she has dubbed weapons of math destruction (WMD).&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;O’Neil’s book came at just the right moment in 2016. It sounded the alarm about big data just as it was becoming a topic for public discussion. And now, two years later, her worries seem prescient. As she explains in the introduction,&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;O’Neil is explicit about laying out the blame at the feet of the WMDs, “You cannot appeal to a WMD. That’s part of their fearsome power. They do not listen.” Yet, these models aren’t deployed and adopted in a frictionless environment. Instead, they “reflect goals and ideology” as O’Neil readily admits. Where &lt;!-- raw HTML omitted --&gt;&lt;em&gt;&lt;!-- raw HTML omitted --&gt;Weapons of Math Destruction &lt;!-- raw HTML omitted --&gt;&lt;/em&gt;&lt;!-- raw HTML omitted --&gt;falters is that it ascribes too much agency to algorithms in places, and in doing so misses the broader politics behind algorithmic decision making.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
